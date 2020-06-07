@@ -1,8 +1,12 @@
 ---
 title: "Bisphenol A (BPA) Exposure In Utero Leads to Immunoregulatory Cytokine Dysregulation in the Mouse Mammary Gland. Horm Canc. 2016"
 authors:
-- admin
-- Robert Ford
+- Catha Fischer
+- Ramanaiah Mamillapalli 
+- Laura G. Goetz
+- Elisa Jorgenson 
+- Ysabel Ilagan
+- Hugh S. Taylor 
 date: "2016-02-24 T00:00:00Z"
 doi: ""
 
