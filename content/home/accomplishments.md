@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Women in Medicine Conference (National)"
-  organization_url = "https://www.edx.org"
+  organization_url = ""
   title = "Women in Medicine Leadership Scholarship"
   url = ""
   certificate_url = ""
@@ -39,13 +39,14 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Columbia VP&S"
+  organization_url = ""
+  title = "Steve Miller Fellow in Medical Education and Medical Humanities"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2020"
+  date_end = ""
   description = ""
+  
 
 +++
