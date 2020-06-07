@@ -68,6 +68,34 @@ date_format = "Jan 2006"
   date_end = ""
   description = "" 
    
+[[item]]
+  organization = "Molecular Biophysics and Biochemistry, Yale University"
+  organization_url = ""
+  title = "Paul Sigler Memorial Prize"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = "" 
   
+[[item]]
+  organization = "Yale University"
+  organization_url = ""
+  title = "Steere Prize in Women’s Studies"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = ""   
+
+[[item]]
+  organization = "Yale University"
+  organization_url = ""
+  title = "Lily Rosen Prize in Women’s Health"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = "" 
 
 +++
