@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "American Journal of Human Biology"
 publication_short: ""
 
-abstract: 
+abstract: The Toba/Qom of Namqom are an indigenous community native to the Gran Chaco region of northern Argentina. Historically seminomadic foragers, the diet of peri‐urban community members has rapidly changed from high‐protein, high‐fiber to hypercaloric, processed. This study aims to understand the impact of this nutritional transition on aspects of women's health by exploring the relationship between prevalence of anemia and current diet composition, place of birth, and reproductive history.
 
 # Summary. An optional shortened abstract.
 summary:
