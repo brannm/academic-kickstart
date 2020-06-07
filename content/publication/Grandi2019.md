@@ -32,7 +32,8 @@ publication_types: ["2"]
 publication: "Teaching in Higher Education"
 publication_short: ""
 
-abstract: This paper presents a survey tool for assessing undergraduate STEM environments at institutions of higher learning. Such surveys typically appear in methodology sections of focused, hypothesis-driven papers written by and for education studies specialists. We sought to compose a different kind of survey tool, one that enables STEM instructors, nonspecialists in educational research, to probe undergraduate STEM climate at their institutions in broad, exploratory terms. We accomplished this goal by assembling a diverse research team of students and faculty, those who directly shape and experience undergraduate STEM climate. We supplement our paper by including a preliminary analysis of the data from the first administration of the survey at our institution. Our goal here is chiefly pedagogical: to suggest an approach to data analysis for those implementing our survey. In sum, our project invites college STEM instructors to enter into a discussion that, though often marginalized, plays a central role in shaping their capacity to teach inclusively.
+abstract: 
+
 # Summary. An optional shortened abstract.
 summary:
 
