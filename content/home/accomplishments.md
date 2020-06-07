@@ -158,4 +158,54 @@ date_format = "Jan 2006"
   date_end = ""
   description = "" 
   
+[[item]]
+  organization = "NeuroReceptor Mapping Conference"
+  organization_url = ""
+  title = "Best Abstract, 3rd Author"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-07-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = "American Association of Physical Anthropologists Conference"
+  organization_url = ""
+  title = "Pollitzer Prize"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-04-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = "Women’s Health Research at Yale"
+  organization_url = ""
+  title = "Undergraduate Research Fellow"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-05-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = "Yale University"
+  organization_url = ""
+  title = "Yale College Dean’s Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-05-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = "Yale University"
+  organization_url = ""
+  title = "Yale Science Scholars Program"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-05-01"
+  date_end = ""
+  description = "" 
+  
 +++
