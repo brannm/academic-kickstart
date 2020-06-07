@@ -97,5 +97,36 @@ date_format = "Jan 2006"
   date_start = "2017-05-01"
   date_end = ""
   description = "" 
+  
+[[item]]
+  organization = "Yale University"
+  organization_url = ""
+  title = "Exceptional Distinction in Women’s, Gender, and Sexuality Studies"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = "" 
+
+[[item]]
+  organization = "Yale University"
+  organization_url = ""
+  title = "Distinction in Molecular Biophysics and Biochemistry"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Yale University"
+  organization_url = ""
+  title = "Phi Beta Kappa Society member"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = ""
+  description = ""
+
 
 +++
