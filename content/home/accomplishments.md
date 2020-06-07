@@ -44,9 +44,19 @@ date_format = "Jan 2006"
   title = "Steve Miller Fellow in Medical Education and Medical Humanities"
   url = ""
   certificate_url = ""
-  date_start = "2020-00-00"
+  date_start = "2020-01-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Student Research Day, Columbia VP&S"
+  organization_url = ""
+  title = "First Prize (Basic Science Category)"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = ""
+  description = ""  
   
 
 +++
