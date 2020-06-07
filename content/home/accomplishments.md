@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "Steve Miller Fellow in Medical Education and Medical Humanities"
   url = ""
   certificate_url = ""
-  date_start = "2020"
+  date_start = "2020-01-01"
   date_end = ""
   description = ""
   
