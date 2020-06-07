@@ -4,10 +4,10 @@ authors:
 - Laura G. Goetz
 - Ramanaiah Mamillapalli
 - Cagdas Sahin
- - Masoumeh Majidi-Zolbin
- - Guanghao Ge
- - Arya Mani
- - Hugh S Taylor
+- Masoumeh Majidi-Zolbin
+- Guanghao Ge
+- Arya Mani
+- Hugh S Taylor
 date: "2017-12-14"
 doi: ""
 
