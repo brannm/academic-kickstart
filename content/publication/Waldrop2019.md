@@ -1,10 +1,15 @@
 ---
 title: "The World Health Organization's Essential Diagnostics List: Diagnostics for neurologic disorders"
 authors:
-Greer Waldrop,Laura G. Goetz, Omar K. Siddiqi, Igor J. Koralnik, Hiral Shah, Kiran T. Thakur
+- Greer Waldrop
+- Laura G. Goetz
+- Omar K. Siddiqi
+- Igor J. Koralnik
+- Hiral Shah
+- Kiran T. Thakur
 
 
-date: "2019-07-12"
+date: "2019-10-08"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +22,10 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Teaching in Higher Education"
+publication: "Neurology"
 publication_short: ""
 
-abstract: "This paper presents a survey tool for assessing undergraduate STEM environments at institutions of higher learning. Such surveys typically appear in methodology sections of focused, hypothesis-driven papers written by and for education studies specialists. We sought to compose a different kind of survey tool, one that enables STEM instructors, nonspecialists in educational research, to probe undergraduate STEM climate at their institutions in broad, exploratory terms. We accomplished this goal by assembling a diverse research team of students and faculty, those who directly shape and experience undergraduate STEM climate. We supplement our paper by including a preliminary analysis of the data from the first administration of the survey at our institution. Our goal here is chiefly pedagogical: to suggest an approach to data analysis for those implementing our survey. In sum, our project invites college STEM instructors to enter into a discussion that, though often marginalized, plays a central role in shaping their capacity to teach inclusively."
+abstract: On the recommendation of the WHO Expert Committee on the Selection and Use of Essential Medicines in 2017, the inaugural WHO Essential Diagnostics List (EDL) was published by the WHO's Strategic Advisory Group of Experts on In-Vitro Diagnostics in May 2018. The EDL seeks to improve global treatment by providing “a catalogue of tests needed to diagnose both the most common conditions worldwide and diseases of global importance in both primary care and advanced settings.”1,2 This first iteration of the EDL includes diagnostic tests enabling the use of medications on the WHO Essential Medicines List (EML), which has guided international policies and funding decisions for the last 4 decades.3 Yet there is little representation of neurologic treatments on the EML, including a lack of medications for dementia, multiple sclerosis, neuropathic pain, and movement disorders, as well as commonly used medications for migraine such as triptans (table).4
 
 # Summary. An optional shortened abstract.
 summary:
@@ -31,7 +36,7 @@ featured: false
 links:
 #- name: "Link"
 # url: 
-url_pdf: "https://www.tandfonline.com/doi/abs/10.1080/13562517.2019.1636219"
+url_pdf: "https://n.neurology.org/content/93/15/680"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
