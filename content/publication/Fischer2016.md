@@ -7,11 +7,11 @@ authors:
 - Elisa Jorgenson 
 - Ysabel Ilagan
 - Hugh S. Taylor 
-date: "2016-02-24 T00:00:00Z"
+date: "2016-02-24"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
