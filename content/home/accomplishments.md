@@ -267,5 +267,45 @@ date_format = "Jan 2006"
   date_start = "2014-05-01"
   date_end = ""
   description = "" 
+  
+[[item]]
+  organization = "Intel Science Talent Search"
+  organization_url = ""
+  title = "National Semifinalist"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = "Mathworks"
+  organization_url = ""
+  title = "Moody’s Mega Math Challenge, 5th Place"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-04-01"
+  date_end = ""
+  description = "" 
+ 
+ [[item]]
+  organization = "National Science Teaching Association"
+  organization_url = ""
+  title = "Junior Science and Humanities Symposium Regional Winner (2nd place) and national competitor"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-05-01"
+  date_end = ""
+  description = "" 
+  
+ [[item]]
+  organization = "Siemens Math & Science Competition"
+  organization_url = ""
+  title = "National Semifinalist"
+  url = ""
+  certificate_url = ""
+  date_start = "2012-12-01"
+  date_end = ""
+  description = "" 
     
 +++
