@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Medical Student
+role: Columbia University
 
 # Organizations/Affiliations
 organizations:
