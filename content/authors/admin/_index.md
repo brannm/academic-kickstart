@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Columbia University
+role: Medical Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
