@@ -124,9 +124,38 @@ date_format = "Jan 2006"
   title = "Phi Beta Kappa Society member"
   url = ""
   certificate_url = ""
-  date_start = "2017-05-01"
+  date_start = "2016-12-01"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Yale University Program in LGBT Studies"
+  organization_url = ""
+  title = "Bruce L. Cohen Research Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-01"
+  date_end = ""
+  description = ""
 
+[[item]]
+  organization = "Yale University Program in Women’s, Gender, and Sexuality Studies"
+  organization_url = ""
+  title = "Solomon Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-01"
+  date_end = ""
+  description = "" 
+  
+[[item]]
+  organization = "Yale University"
+  organization_url = ""
+  title = "Yale Science Scholars Program"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-01"
+  date_end = ""
+  description = "" 
+  
 +++
