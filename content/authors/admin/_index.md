@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Teddy Goetz
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Medical Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,28 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Psychiatry
+- LGBTQ health
+- Women’s health
+- Narrative medicine
+- Physician advocacy
+- Medical education
+- Sustainable and locally-rooted global health
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.D. Candidate
+    institution: Columbia University, Vagelos College of Physicians and Surgeons
+    year: 2021 (expected)
+  - course: MS in Molecular Biophysics and Biochemistry
+    institution: Yale University
+    year: 2017
+  - course: BS in Molecular Biophysics and Biochemistry and Women’s, Gender, and Sexuality Studies
+    institution: Yale University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: mailto:teddy.goetz@columbia.edu  # For a direct email link, use "mailto: teddy.goetz@columbia.edu".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: orcid
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://orcid.org/0000-0002-1138-6602
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Teddy G. Goetz is a fourth-year medical student at Columbia University, College of Physicians and Surgeons and Co-Director of Research for the Medical Student Pride Alliance, the first national LGBTQ medical student organization. Previously, they studied biochemistry and gender studies at Yale, conducting research on a wide spectrum of biologically- and socially-determined aspects of gender-based health disparities, including earning their M.S. developing the first animal model of transgender hormone therapy. Outside of the hospital, they can be found writing poetry, taking pictures, on long runs/bike rides/hikes, listening to podcasts, and hosting potlucks. 
