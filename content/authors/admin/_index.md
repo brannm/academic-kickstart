@@ -40,6 +40,7 @@ education:
   - course: BS in Molecular Biophysics and Biochemistry and Women’s, Gender, and Sexuality Studies
     institution: Yale University
     year: 2017
+  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
