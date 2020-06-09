@@ -7,6 +7,7 @@ tags:
 - Psychiatry
 - Narrative Medicine
 - LGBTQ
+- Science, Technology, and Society Studies
 
 
 
