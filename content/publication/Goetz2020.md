@@ -30,7 +30,7 @@ summary:
 
 tags:
 - Medical education
-- Psychiatry
+- LGBTQ
 
 featured: false
 
