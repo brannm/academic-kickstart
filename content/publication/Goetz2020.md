@@ -29,6 +29,9 @@ abstract:
 summary:
 
 tags:
+- Medical education
+- Psychiatry
+
 featured: false
 
 links:
