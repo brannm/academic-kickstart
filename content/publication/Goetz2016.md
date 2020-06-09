@@ -26,6 +26,7 @@ abstract: The gynecological disease endometriosis is characterized by the deposi
 summary:
 
 tags:
+- Women’s health
 featured: false
 
 links:

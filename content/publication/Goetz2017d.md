@@ -30,6 +30,8 @@ abstract: The contributions of estradiol and testosterone to atherosclerotic les
 summary:
 
 tags:
+- Trans health
+- LGBTQ
 featured: false
 
 links:

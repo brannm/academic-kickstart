@@ -29,6 +29,9 @@ abstract: Cross-sex hormone therapy (XHT) is widely used by transgender people t
 summary:
 
 tags:
+- Trans health
+- LGBTQ
+
 featured: false
 
 links:

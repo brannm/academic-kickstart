@@ -26,6 +26,9 @@ abstract: The Toba/Qom of Namqom are an indigenous community native to the Gran 
 summary:
 
 tags:
+- Women’s health
+- Global health
+
 featured: false
 
 links:
