@@ -1,10 +1,14 @@
 ---
 title: Self(ie)-Recognition
-summary: an ethnographic exploration of how trans individuals resolve tensions between seeking self-recognition of an internal authentic truth versus external recognition, or legibility, as desired
+summary: An ethnographic exploration of how trans individuals resolve tensions between seeking self-recognition of an internal authentic truth versus external recognition, or legibility, as desired
 
 tags:
+- Trans Health
+- Psychiatry
+- Narrative Medicine
+- LGBTQ
 
-date: ""
+date: 
 
 # Optional external URL for project (replaces project detail page).
 #external_link: 
