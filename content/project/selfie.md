@@ -1,0 +1,13 @@
+title: "Self(ie)-Recognition"
+summary: an ethnographic exploration of how trans individuals resolve tensions between seeking self-recognition of an internal authentic truth versus external recognition, or legibility, as desired
+
+tags:
+
+date: ""
+
+# Optional external URL for project (replaces project detail page).
+#external_link: 
+
+#image:
+#  caption: Photo by Toa Heftiba on Unsplash
+#  focal_point: Smart
