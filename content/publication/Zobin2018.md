@@ -28,6 +28,7 @@ abstract: Endometriosis is an estrogen dependent, inflammatory disorder occurrin
 summary:
 
 tags:
+- Women’s health
 featured: false
 
 links:

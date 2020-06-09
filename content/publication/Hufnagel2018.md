@@ -32,6 +32,7 @@ abstract: Endometriosis is a common condition in reproductive-aged women charact
 summary:
 
 tags:
+- Women’s health
 featured: false
 
 links:

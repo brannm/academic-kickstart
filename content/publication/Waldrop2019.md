@@ -31,6 +31,9 @@ abstract: On the recommendation of the WHO Expert Committee on the Selection and
 summary:
 
 tags:
+- Neuroscience
+- Global health
+
 featured: false
 
 links:
