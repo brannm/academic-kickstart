@@ -1,9 +1,9 @@
 ---
-title: "Gained in Translation"
+title: "From Badge to Coat"
 authors:
 - Laura G Goetz
 
-date: "2019-12-10"
+date: "2018-12-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Doximity Op-Med: First Stab"
+publication: "American Journal of Psychiatry Residents' Journal"
 publication_short: ""
 
 abstract:
@@ -27,12 +27,13 @@ summary:
 tags:
 - Psychiatry
 - Narrative medicine
+- Medical education
 featured: false
 
 #links:
 #- name: "Link"
 # url: 
-url_pdf: "https://opmed.doximity.com/articles/gained-in-translation?_csrf_attempted=yes"
+url_pdf: "https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2018.131204"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
