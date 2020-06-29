@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
 title = "Conference Presentations"
-subtitle = ""
+subtitle = "Oral"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
