@@ -1,12 +1,12 @@
 ---
 title: "Current State of Transgender Medical Education in the United States and Canada: Update to a Scoping Review"
 authors:
-- Ian T Nolan
+- Ian T. Nolan
 - Gaines Blasdel
-- Samuel N Dubin
+- Samuel N. Dubin
 - Teddy G. Goetz  
-- Richard E Greene
-- Shane D Morrison 
+- Richard E. Greene
+- Shane D. Morrison 
 
 
 
