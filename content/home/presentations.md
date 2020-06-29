@@ -77,5 +77,25 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "LGBT Health Workforce Conference: New York, NY"
+  organization_url = ""
+  title = "Student Led LGBT Health Initiatives"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Women in Medicine Conference: Philadelphia, PA"
+  organization_url = ""
+  title = "Sexual and Gender Minority (SGM) Affinity Groups at U.S. Medical Schools: A Needs-Assessment Towards A National Medical Student Forum"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-08-01"
+  date_end = ""
+  description = ""
     
 +++
