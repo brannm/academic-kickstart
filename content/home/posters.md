@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 125  # Order that this section will appear.
 
-title = ""
+title = "Conference Presentations"
 subtitle = "Posters"
 
 # Date format
@@ -19,15 +19,32 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Jornadas Nacionales de Antropología Biológica: Corrientes, Argentina"
+  organization = "Society for Reproductive Investigation Conference: Montreal, Canada"
   organization_url = ""
-  title = "Prevalencia De Anemia En Mujeres Qom De Un Barrio Peri-Urbano De Formosa"
+  title = "Bisphenol-A Exposure In Utero Programs a Sexually Dimorphic Estrogen Response of Metabolic Genes in the Murine Liver"
   url = ""
   certificate_url = ""
-  date_start = "2015-09-01"
+  date_start = "2016-03-01"
   date_end = ""
   description = ""
  
+[[item]]
+  organization = "NeuroReceptor Mapping Meeting"
+  organization_url = ""
+  title = "Iron deficiency in Women of an Indigenous Community in Argentina: Impact of diet composition and reproductive patterns"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-07-01"
+  date_end = ""
+  description = ""
 
-
+[[item]]
+  organization = "American Association of Physical Anthropologists Meeting: Atlanta, GA"
+  organization_url = ""
+  title = "Sex Differences in Dorsolateral Prefrontal Cortex Dopamine Release and the Relationship to Tobacco Smoking Treatment Outcomes"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-04-01"
+  date_end = ""
+  description = ""
 +++
