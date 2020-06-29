@@ -97,5 +97,25 @@ date_format = "Jan 2006"
   date_start = "2019-08-01"
   date_end = ""
   description = ""
-    
+
+[[item]]
+  organization = "Women in Medicine Conference: Philadelphia, PA"
+  organization_url = ""
+  title = "Making a Face: Integrated Counseling and Surgical Workshop in Facial Reconstructive Surgery"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-08-01"
+  date_end = ""
+  description = ""  
+
+[[item]]
+  organization = "Triological Society 123rd Annual Meeting at COSM: Atlanta, GA. April 2020. *Cancelled due to COVID-19"
+  organization_url = ""
+  title = " Sexual and Gender Minority Diversity and Curriculum within Otolaryngology Residency: A National Survey of Program Directors"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""   
+  
 +++
