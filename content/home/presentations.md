@@ -111,11 +111,53 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Triological Society 123rd Annual Meeting at COSM: Atlanta, GA *Cancelled due to COVID-19"
   organization_url = ""
-  title = " Sexual and Gender Minority Diversity and Curriculum within Otolaryngology Residency: A National Survey of Program Directors"
+  title = "Sexual and Gender Minority Diversity and Curriculum within Otolaryngology Residency: A National Survey of Program Directors"
   url = ""
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = ""
   description = ""   
+
+[[item]]
+  organization = "Women in Medicine Conference. Puget Sound, WA: May 2020. *Cancelled due to COVID-19
+"
+  organization_url = ""
+  title = " Supporting LGBTQ Medical Trainees: Reflections on Research and Advocacy with the Medical Student Pride Alliance"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-01"
+  date_end = ""
+  description = ""   
+
+[[item]]
+  organization = "Women in Medicine Conference. Puget Sound, WA: May 2020. *Cancelled due to COVID-19"
+  organization_url = ""
+  title = "Faculty Outness Promotes a Sexual and Gender Minority Diversity Pipeline"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-01"
+  date_end = ""
+  description = ""   
+
+[[item]]
+  organization = "LGBT Health Workforce Conference: New York, NY"
+  organization_url = ""
+  title = "Network for Change: Research, Advocacy, and Community-Building with the Medical Student Pride Alliance: Research"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-01"
+  date_end = ""
+  description = "" 
   
+[[item]]
+  organization = "American Public Health Association Conference: San Francisco, CA"
+  organization_url = ""
+  title = "Prescription drug misuse in transgender individuals: Association with non-binary identity and minority stress"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-10-01"
+  date_end = ""
+  description = "" 
+
+
 +++
