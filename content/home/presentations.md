@@ -57,5 +57,25 @@ date_format = "Jan 2006"
   date_start = "2017-03-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Society for Reproductive Investigation Meeting: San Diego, CA"
+  organization_url = ""
+  title = "Addition of estradiol to testosterone therapy and implications for treating transgender youth in mice. Invited speaker for mini-symposium “Setting the research agenda for transgender medicine in 2018"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-03-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "LGBT Health Workforce Conference: New York, NY"
+  organization_url = ""
+  title = "Climate of LGBTQ+ Inclusion at a Health Professions Campus"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-01"
+  date_end = ""
+  description = ""
     
 +++
