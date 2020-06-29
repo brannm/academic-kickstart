@@ -38,5 +38,24 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Society for Reproductive Investigation Meeting: Montreal, Canada"
+  organization_url = ""
+  title = "Hepatic Metabolic Gene Dysregulation in a Mouse Model of Endometriosis"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Society for Reproductive Investigation Meeting: Orlando, FL"
+  organization_url = ""
+  title = "Cross-Sex Testosterone Therapy Is Not Sufficient for Bone Development in Female Mice: Implications for Treating Transgender Youth"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-03-01"
+  date_end = ""
+  description = ""
     
 +++
