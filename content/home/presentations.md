@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Jornadas Nacionales de Antropología Biológica"
+  organization = "Jornadas Nacionales de Antropología Biológica • Corrientes, Argentina"
   organization_url = ""
   title = "Prevalencia De Anemia En Mujeres Qom De Un Barrio Peri-Urbano De Formosa"
   url = ""
   certificate_url = ""
   date_start = "2015-09-01"
   date_end = ""
-  description = "Corrientes, Argentina"
+  description = ""
  
 
 
