@@ -119,8 +119,7 @@ date_format = "Jan 2006"
   description = ""   
 
 [[item]]
-  organization = "Women in Medicine Conference. Puget Sound, WA: May 2020. *Cancelled due to COVID-19
-"
+  organization = "Women in Medicine Conference. Puget Sound, WA: May 2020 *Cancelled due to COVID-19"
   organization_url = ""
   title = " Supporting LGBTQ Medical Trainees: Reflections on Research and Advocacy with the Medical Student Pride Alliance"
   url = ""
@@ -130,7 +129,7 @@ date_format = "Jan 2006"
   description = ""   
 
 [[item]]
-  organization = "Women in Medicine Conference. Puget Sound, WA: May 2020. *Cancelled due to COVID-19"
+  organization = "Women in Medicine Conference. Puget Sound, WA: May 2020 *Cancelled due to COVID-19"
   organization_url = ""
   title = "Faculty Outness Promotes a Sexual and Gender Minority Diversity Pipeline"
   url = ""
