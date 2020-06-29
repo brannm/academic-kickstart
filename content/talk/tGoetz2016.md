@@ -1,6 +1,6 @@
 ---
-title: Sexual Harassment and Sexual Assault Reported by Trans and Genderqueer Students: The 2015 AAU Sexual Climate Survey
-event: The National LGBTQ Task Force Creating Change Conference
+title: "Sexual Harassment and Sexual Assault Reported by Trans and Genderqueer Students: The 2015 AAU Sexual Climate Survey
+event: The National LGBTQ Task Force Creating Change Conference"
 # event_url: https://example.org
 location: Chicago, IL
 # summary: An example talk using academia's Markdown slides feature.
