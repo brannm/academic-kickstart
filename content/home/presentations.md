@@ -141,7 +141,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "LGBT Health Workforce Conference: New York, NY"
   organization_url = ""
-  title = "Network for Change: Research, Advocacy, and Community-Building with the Medical Student Pride Alliance: Research"
+  title = "Network for Change: Research, Advocacy, and Community-Building with the Medical Student Pride Alliance"
   url = ""
   certificate_url = ""
   date_start = "2020-06-01"
