@@ -67,5 +67,65 @@ date_format = "Jan 2006"
   date_start = "2017-03-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Student Research Day, Columbia University, College of Physicians and Surgeons: New York, NY"
+  organization_url = ""
+  title = "Modeling a Genetic Variant Associated with Human Endometriosis"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Student Research Day, Columbia University, College of Physicians and Surgeons: New York, NY"
+  organization_url = ""
+  title = "Developing an Olfaction-Based Go-No-Go Task for Social Memory"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = ""
+  description = ""
   
+[[item]]
+  organization = "QForward LGBTQI+ Leadership Conference: New Haven, CT"
+  organization_url = ""
+  title = "Sexual and Gender Minority (SGM) Affinity Groups at U.S. Medical Schools: A Needs-Assessment Towards A National Medical Student Forum"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-03-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "37th Annual GLMA Conference on LGBTQ Health: New Orleans, LA"
+  organization_url = ""
+  title = "Sexual and Gender Minority (SGM) Affinity Groups at U.S. Medical Schools: A Needs-Assessment Towards A National Medical Student Forum"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Student Research Day, Columbia University, College of Physicians and Surgeons: New York, NY *Cancelled due to COVID-19"
+  organization_url = ""
+  title = "Sexual and Gender Minority Diversity and Curriculum within Otolaryngology Residency: A National Survey of Program Directors"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "LGBT Health Workforce Conference: New York, NY"
+  organization_url = ""
+  title = " Transgender Healthcare Education: A Literature Review with Focus on Educational Assessment"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-01"
+  date_end = ""
+  description = ""
+      
 +++
