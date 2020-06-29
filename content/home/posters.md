@@ -29,22 +29,43 @@ date_format = "Jan 2006"
   description = ""
  
 [[item]]
-  organization = "NeuroReceptor Mapping Meeting"
-  organization_url = ""
-  title = "Iron deficiency in Women of an Indigenous Community in Argentina: Impact of diet composition and reproductive patterns"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-07-01"
-  date_end = ""
-  description = ""
-
-[[item]]
   organization = "American Association of Physical Anthropologists Meeting: Atlanta, GA"
   organization_url = ""
-  title = "Sex Differences in Dorsolateral Prefrontal Cortex Dopamine Release and the Relationship to Tobacco Smoking Treatment Outcomes"
+  title = "Iron deficiency in Women of an Indigenous Community in Argentina: Impact of diet composition and reproductive patterns"
   url = ""
   certificate_url = ""
   date_start = "2016-04-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "NeuroReceptor Mapping Meeting"
+  organization_url = ""
+  title = "Sex Differences in Dorsolateral Prefrontal Cortex Dopamine Release and the Relationship to Tobacco Smoking Treatment Outcomes"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-07-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "Society for Research on Nicotine and Tobacco Meeting"
+  organization_url = ""
+  title = "Sex Differences in Dorsolateral Prefrontal Cortex Dopamine Release and the Relationship to Tobacco Smoking Treatment Outcomes"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-03-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Society for Reproductive Investigation Conference: Orlando, FL"
+  organization_url = ""
+  title = "Treatment with Icon, Results in Regression of Red Lesions in a Non-Human Primate Model of Endometriosis"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-03-01"
+  date_end = ""
+  description = ""
+  
 +++
