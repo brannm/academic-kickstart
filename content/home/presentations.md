@@ -159,6 +159,14 @@ date_format = "Jan 2006"
   description = "" 
 
 subtitle = "Poster"
-
+[[item]]
+  organization = "American Public Health Association Conference: San Francisco, CA"
+  organization_url = ""
+  title = "Prescription drug misuse in transgender individuals: Association with non-binary identity and minority stress"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-10-01"
+  date_end = ""
+  description = "" 
 
 +++
