@@ -39,8 +39,8 @@
   weight = 60
 
 [[main]]
-  name = "Poet"
-  url = "#poetry"
+  name = "Poetry"
+  url = "#poet"
   weight = 70
 
 [[main]]
