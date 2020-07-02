@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 150  # Order that this section will appear.
+weight = 140  # Order that this section will appear.
 
-title = "145"
-subtitle = "To inquire about hiring for photography services, please email teddy.goetz@columbia.edu"
+title = "Poetry"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,7 +51,7 @@ subtitle = "To inquire about hiring for photography services, please email teddy
 
 +++
 
-## Poetry:
+## Selected Poetry:
 1.	Goetz TG. Goliath. Open Minds Quarterly. Summer 2020. (Poem) [In press]
 2.	Goetz TG. Girl Code. In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
 3.	Goetz TG. Green Thumb. The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. (Poem) [In press]
