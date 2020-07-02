@@ -25,7 +25,7 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "website_diffraction_3"  # Image path relative to your `static/img/` folder.
+  overlay_img = "website_diffraction_3.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -34,7 +34,7 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "website_irish_proverb_3"  # Image path relative to your `static/img/` folder.
+  overlay_img = "website_irish_proverb_3.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -43,16 +43,7 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "website_meditation_in_motion_3"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "website_photophobia_3"  # Image path relative to your `static/img/` folder.
+  overlay_img = "website_meditation_in_motion_3.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -61,7 +52,7 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "website_photosensitive_3"  # Image path relative to your `static/img/` folder.
+  overlay_img = "website_photophobia_3.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -70,7 +61,16 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "website_travel_log_3"  # Image path relative to your `static/img/` folder.
+  overlay_img = "website_photosensitive_3.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "website_travel_log_3.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 
