@@ -52,7 +52,7 @@ subtitle = "To inquire about hiring for photography services, please email teddy
 
 +++
 
-{{< figure library="true" src="Goetz_diffraction.jpg" title="" lightbox="true" >}}
+#{{< figure library="true" src="Goetz_diffraction.jpg" title="" lightbox="true" >}}
 
 ## Selected Professional Photography Work:
 
