@@ -12,7 +12,8 @@ interval = false
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
 height = "600px"
-width = "100px"
+width = "200px"
+
 
 
 # Slides.
@@ -24,7 +25,7 @@ width = "100px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "3.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Irish_proverb_TGG.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -33,7 +34,7 @@ width = "100px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "1.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Goetz_diffraction.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
