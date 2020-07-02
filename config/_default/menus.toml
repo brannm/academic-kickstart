@@ -26,12 +26,17 @@
 [[main]]
   name = "Honors and Awards"
   url = "#accomplishments"
-  weight = 60
+  weight = 75
 
 [[main]]
   name = "Conference Presentations"
   url = "#presentations"
   weight = 60
+
+[[main]]
+  name = "Teaching Experience"
+  url = "#experience"
+  weight = 70
 
 #[[main]]
 #  name = "Contact"
