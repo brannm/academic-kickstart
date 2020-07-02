@@ -48,7 +48,15 @@ subtitle = "To inquire about hiring for photography services, please email teddy
  
  # CSS class.
  css_class = ""
+
+gallery_item:
+ - album: gallery
+   image: Goetz_diffraction.jpg
+   caption: ""
 +++
+
+{{< gallery >}}
+
 ## Selected Professional Photography Work:
 
 ##### Headshots
