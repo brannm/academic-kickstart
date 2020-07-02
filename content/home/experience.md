@@ -35,4 +35,26 @@ date_format = "Jan 2006"
   date_start = "2020-03-01"
   date_end = "2020-05-31"
   description = """Teaching the psychiatric interview, differential diagnosis skills, and playing a standardized patient in first-year medical student Psychiatric Medicine small groups"""
+  
+  [[experience]]
+  title = "Foundations of Clinical Medicine Senior Student Seminar Group Leader"
+  company = "Columbia University, VP&S"
+  company_url = ""
+  location = ""
+  date_start = "2020-01-01"
+  date_end = "2020-02-28"
+  description = """Monthly co-facilitation of discussions of clinical year students about humanism in medicine"""
+  
+  [[experience]]
+  title = "Tutor: Histology and Pathology, The Body in Health and Disease, Clinical Clerkships; Lecturer: Infectious Diseases"
+  company = "Student Success Network,Columbia University, VP&S"
+  company_url = ""
+  location = ""
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """MIndividual weekly tutoring of first, second, and third year students on pre-clinical curriculum and clinical skills
+
+Creating a review lecture on antibiotic mechanisms and utility
+
+"""
 +++
