@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-03-01"
   date_end = "2020-05-31"
-  description = """-Writing standardized patient scenarios for teaching first-year medical students the psychiatric interview, and differential diagnosis skills
+  description = """* Writing standardized patient scenarios for teaching first-year medical students the psychiatric interview, and differential diagnosis skills
   """
 
 [[experience]]
@@ -52,8 +52,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = """MIndividual weekly tutoring of first, second, and third year students on pre-clinical curriculum and clinical skills
-Creating a review lecture on antibiotic mechanisms and utility
-
+  description = """* MIndividual weekly tutoring of first, second, and third year students on pre-clinical curriculum and clinical skills
+* Creating a review lecture on antibiotic mechanisms and utility
 """
 +++
