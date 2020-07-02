@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 155  # Order that this section will appear.
+weight = 150  # Order that this section will appear.
 
 title = "Photography"
 subtitle = "To inquire about hiring for photography services, please email teddy.goetz@columbia.edu"
@@ -50,20 +50,20 @@ subtitle = "To inquire about hiring for photography services, please email teddy
  css_class = ""
 +++
 ## Selected Professional Photography Work
-Selected Professional Photography Work
-Headshots
-Freelance; for business and theatrical use (06/2017-Present)
-Bard Hall Players Theater Ensemble (02/2018-Present)
-Events
-Columbia University, Vagelos College of Physicians and Surgeons (01/2019-Present)
-Performances 
-Bard Hall Players Theater Ensemble (02/2018-Present)
 
-Selected Photography Art Exhibitions and Showcases 
-Arts and Humanities StudioLab Showcase (01/28/2020)
-Columbia University, Department of Narrative Medicine
+### Headshots
+* Freelance; for business and theatrical use (06/2017-Present)
+* Bard Hall Players Theater Ensemble (02/2018-Present)
+### Events
+* Columbia University, Vagelos College of Physicians and Surgeons (01/2019-Present)
+### Performances 
+* Bard Hall Players Theater Ensemble (02/2018-Present)
 
-Selected Published Photography:
+## Selected Photography Art Exhibitions and Showcases 
+* Arts and Humanities StudioLab Showcase (01/28/2020)
+    * Columbia University, Department of Narrative Medicine
+
+## Selected Published Photography:
 1. Goetz TG. Photosensitive. Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. https://ailmentcoin.org/issues
 2. Goetz TG. Irish Proverb. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
 3. Goetz TG. Meditation in Motion. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
