@@ -49,21 +49,9 @@ subtitle = "To inquire about hiring for photography services, please email teddy
  # CSS class.
  css_class = ""
 
-## Selected Poetry:
++++
 
-##### Headshots
-* Freelance; for business and theatrical use (06/2017-Present)
-* Bard Hall Players Theater Ensemble (02/2018-Present)
-##### Events
-* Columbia University, Vagelos College of Physicians and Surgeons (01/2019-Present)
-##### Performances 
-* Bard Hall Players Theater Ensemble (02/2018-Present)
-
-## Selected Photography Art Exhibitions and Showcases:
-* Arts and Humanities StudioLab Showcase (01/28/2020)
-    * Columbia University, Department of Narrative Medicine
-
-## Selected Published Photography:
+## Poetry:
 1.	Goetz TG. Goliath. Open Minds Quarterly. Summer 2020. (Poem) [In press]
 2.	Goetz TG. Girl Code. In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
 3.	Goetz TG. Green Thumb. The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. (Poem) [In press]
@@ -96,4 +84,4 @@ subtitle = "To inquire about hiring for photography services, please email teddy
 30.	Goetz LG. Letter To My Future Daughter. Fatale. 2013.
 
 
-+++
+
