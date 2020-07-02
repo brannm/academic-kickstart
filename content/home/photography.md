@@ -51,12 +51,12 @@ subtitle = "To inquire about hiring for photography services, please email teddy
 +++
 ## Selected Professional Photography Work:
 
-Headshots
+##### Headshots
 * Freelance; for business and theatrical use (06/2017-Present)
 * Bard Hall Players Theater Ensemble (02/2018-Present)
-Events
+##### Events
 * Columbia University, Vagelos College of Physicians and Surgeons (01/2019-Present)
-Performances 
+##### Performances 
 * Bard Hall Players Theater Ensemble (02/2018-Present)
 
 ## Selected Photography Art Exhibitions and Showcases:
