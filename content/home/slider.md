@@ -25,7 +25,7 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "1.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -34,7 +34,7 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "2.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "2.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -43,16 +43,7 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "3.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "4.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "3.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -61,7 +52,7 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "5.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "4.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
@@ -70,7 +61,16 @@ width = "200px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "6.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "5.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = ""
+  content = ""
+  align = ""
+
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "6.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 
