@@ -68,10 +68,10 @@ subtitle = "To inquire about hiring for photography services, please email teddy
     * Columbia University, Department of Narrative Medicine
 
 ## Selected Published Photography:
-1. Goetz TG. Photosensitive. Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. https://ailmentcoin.org/issues
-2. Goetz TG. Irish Proverb. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
-3. Goetz TG. Meditation in Motion. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
-4. Goetz TG. Photophobia. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
-5. Goetz TG. Travel Log. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
-6. Goetz LG. Diffraction. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018. 
+1. Photosensitive. Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. https://ailmentcoin.org/issues
+2. Irish Proverb. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
+3. Meditation in Motion. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
+4. Photophobia. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
+5. Travel Log. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
+6. Diffraction. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018. 
 
