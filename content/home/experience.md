@@ -18,27 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Psychiatric Medicine: Online Content Generation"
+  company = "COVID-19 Student Service Corps, Columbia University, VP&S"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  location = ""
+  date_start = "2020-03-01"
+  date_end = "2020-05-31"
+  description = """Writing standardized patient scenarios for teaching first-year medical students the psychiatric interview, and differential diagnosis skills
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Psychiatric Medicine: Small Group Preceptor"
+  company = "COVID-19 Student Service Corps, Columbia University, VP&S"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = ""
+  date_start = "2020-03-01"
+  date_end = "2020-05-31"
+  description = """Teaching the psychiatric interview, differential diagnosis skills, and playing a standardized patient in first-year medical student Psychiatric Medicine small groups"""
 +++
