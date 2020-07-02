@@ -49,7 +49,7 @@ subtitle = "To inquire about hiring for photography services, please email teddy
  # CSS class.
  css_class = ""
 +++
-
+## Selected Professional Photography Work
 Selected Professional Photography Work
 Headshots
 Freelance; for business and theatrical use (06/2017-Present)
