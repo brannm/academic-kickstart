@@ -24,10 +24,11 @@ interests:
 - Psychiatry
 - LGBTQ health
 - Women’s health
+- Medical education
 - Narrative medicine
 - Physician advocacy
-- Medical education
-- Sustainable and locally-rooted global health
+- Science, Technology, and Society Studies
+
 
 education:
   courses:
@@ -75,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Teddy G. Goetz is a fourth-year medical student at Columbia University, College of Physicians and Surgeons and Co-Director of Research for the Medical Student Pride Alliance, the first national LGBTQ medical student organization. Previously, they studied biochemistry and gender studies at Yale, conducting research on a wide spectrum of biologically- and socially-determined aspects of gender-based health disparities, including earning their M.S. developing the first animal model of transgender hormone therapy. Outside of the hospital, they can be found writing poetry, taking pictures, on long runs/bike rides/hikes, listening to podcasts, and hosting potlucks. 
+Teddy G. Goetz (they/them) is a fourth-year medical student at Columbia University, College of Physicians and Surgeons and Co-Director of Research for the Medical Student Pride Alliance, the first national LGBTQ medical student organization. Previously, they studied biochemistry and gender studies at Yale, conducting research on a wide spectrum of biologically- and socially-determined aspects of gender-based health disparities, including earning their M.S. developing the first animal model of transgender hormone therapy. Outside of the hospital, they can be found writing poetry, taking pictures, on long runs/bike rides/hikes, listening to podcasts, and hosting potlucks. 
