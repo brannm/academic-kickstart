@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 145  # Order that this section will appear.
 
 title = "Photography"
-subtitle = ""
+subtitle = "To inquire about hiring for photography services, please email teddy.goetz@columbia.edu"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  #gradient_start = "DarkGreen"
+  #gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
@@ -50,4 +50,24 @@ subtitle = ""
  css_class = ""
 +++
 
-test 
+Selected Professional Photography Work
+Headshots
+Freelance; for business and theatrical use (06/2017-Present)
+Bard Hall Players Theater Ensemble (02/2018-Present)
+Events
+Columbia University, Vagelos College of Physicians and Surgeons (01/2019-Present)
+Performances 
+Bard Hall Players Theater Ensemble (02/2018-Present)
+
+Selected Photography Art Exhibitions and Showcases 
+Arts and Humanities StudioLab Showcase (01/28/2020)
+Columbia University, Department of Narrative Medicine
+
+Selected Published Photography:
+1. Goetz TG. Photosensitive. Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. https://ailmentcoin.org/issues
+2. Goetz TG. Irish Proverb. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
+3. Goetz TG. Meditation in Motion. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
+4. Goetz TG. Photophobia. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
+5. Goetz TG. Travel Log. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
+6. Goetz LG. Diffraction. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018. 
+
