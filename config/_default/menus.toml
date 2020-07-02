@@ -24,13 +24,24 @@
   weight = 40
 
 [[main]]
-  name = "Honors and Awards"
-  url = "#accomplishments"
-  weight = 75
-
-[[main]]
   name = "Conference Presentations"
   url = "#presentations"
+  weight = 45
+
+[[main]]
+  name = "Teaching Experience"
+  url = "#experience"
+  weight = 50
+
+[[main]]
+  name = "Honors and Awards"
+  url = "#accomplishments"
+  weight = 55
+
+
+[[main]]
+  name = "Poetry"
+  url = "#poetry"
   weight = 60
 
 [[main]]
@@ -38,15 +49,7 @@
   url = "#photography"
   weight = 65
 
-[[main]]
-  name = "Poetry"
-  url = "#poetry"
-  weight = 67
 
-[[main]]
-  name = "Teaching Experience"
-  url = "#experience"
-  weight = 70
 
 #[[main]]
 #  name = "Contact"
