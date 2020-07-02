@@ -63,6 +63,6 @@ Creating a review lecture on antibiotic mechanisms and utility
   location = ""
   date_start = "2019-04-04"
   date_end = "2019-04-04"
-  description = """Wrote and co-facilitated an integrated workshop for second-year medical students, applying medical empathy and counseling skills to plastic surgery education; published in Academic Psychiatry (2020)
+  description = """Wrote and co-facilitated an integrated workshop for second-year medical students, applying medical empathy and counseling skills to plastic surgery education; published in *Academic Psychiatry* (2020)
 """
 +++
