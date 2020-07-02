@@ -16,17 +16,17 @@
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Conference Presentations"
   url = "#presentations"
-  weight = 45
+  weight = 40
 
 [[main]]
   name = "Teaching Experience"
@@ -36,18 +36,18 @@
 [[main]]
   name = "Honors and Awards"
   url = "#accomplishments"
-  weight = 55
+  weight = 60
 
 
 [[main]]
   name = "Poetry"
   url = "#poetry"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Photography"
   url = "#photography"
-  weight = 65
+  weight = 80
 
 
 
@@ -61,4 +61,4 @@
  [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 80
+    weight = 90
