@@ -24,17 +24,17 @@
   weight = 3
 
 [[main]]
-  name = "Conference Presentations"
+  name = "Talks"
   url = "#presentations"
   weight = 4
 
 [[main]]
-  name = "Teaching Experience"
+  name = "Teaching"
   url = "#experience"
   weight = 5
 
 [[main]]
-  name = "Honors and Awards"
+  name = "Awards"
   url = "#accomplishments"
   weight = 6
 
