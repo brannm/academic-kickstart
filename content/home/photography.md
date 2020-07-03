@@ -68,7 +68,7 @@ subtitle = "To inquire about hiring for photography services, please email teddy
     * Columbia University, Department of Narrative Medicine
 
 ## Selected Published Photography:
-1. Photosensitive. Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. https://ailmentcoin.org/issues
+1. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. https://ailmentcoin.org/issues
 2. Irish Proverb. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
 3. Meditation in Motion. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
 4. Photophobia. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
