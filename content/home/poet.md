@@ -59,23 +59,23 @@ subtitle = ""
 5.	Double Helix. Lifelines Magazine, Dartmouth Medical School. 2020. (Poem) [In press]
 6.	Keyhole. Beyond Words Literary Magazine. 2020. [in press]
 7.	White(coat) Noise. The Medical Student Press Journal. 2020. [in press]
-8.	A Great Big World. Journal of the Medical Humanities. 2020. https://link.springer.com/article/10.1007%2Fs10912-020-09616-8
+8.	[A Great Big World](https://link.springer.com/article/10.1007%2Fs10912-020-09616-8). Journal of the Medical Humanities. 2020. 
 9.	Pieces. Tendon Magazine, Johns Hopkins University Center for Medical Humanities & Social Medicine. Spring 2020. 
 10.	7 West. Harmony Magazine, University of Arizona Medical School. 2020. 
 11.	Caterpillar. Harmony Magazine, University of Arizona Medical School. 2020. 
-12.	CFTR. The Intima: A Journal of Narrative Medicine. Fall 2019. http://www.theintima.org/poetry-a-f
-13.	Monsoon Season. Watershed Review, 2019. https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/
-14.	Seedling. Watershed Review, 2019. https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/
-15.	64th Street. Heirlock Magazine. Vol. I, Issue II, 2019. https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74
-16.	Daylight Savings Time. Heirlock Magazine. Vol. I, Issue II, 2019. https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74
-17.	Extra Heart Sounds. Heirlock Magazine. Vol. I, Issue II, 2019. https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74
-18.	Mixed Signals. Heirlock Magazine. Vol. I, Issue II, 2019. https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74
-19.	Xanthopsia. Wards Literary Magazine. Issue 04. 2019. https://static1.squarespace.com/static/598cb679db29d6413909bc23/t/5dbd27e2c7aa2f31f1cc618a/1572677624808/Iss04-Psych.pdf
+12.	[CFTR](http://www.theintima.org/poetry-a-f). The Intima: A Journal of Narrative Medicine. Fall 2019. 
+13.	[Monsoon Season](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
+14.	[Seedling](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
+15.	[64th Street](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+16.	[Daylight Savings Time](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+17.	[Extra Heart Sounds](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+18.	[Mixed Signals](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+19.	[Xanthopsia](https://static1.squarespace.com/static/598cb679db29d6413909bc23/t/5dbd27e2c7aa2f31f1cc618a/1572677624808/Iss04-Psych.pdf). Wards Literary Magazine. Issue 04. 2019. 
 20.	Karpas. Ponder Review. Vol. 3, Issue 2. 2019. 
-21.	Bastante. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
-22.	Mind the Gap. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
+21.	[Bastante](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+22.	[Mind the Gap](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
 23.	Granddaughter Gould. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2019. 
-24.	Cerros. The Intima: A Journal of Narrative Medicine. Spring 2019. https://static1.squarespace.com/static/54bc1287e4b09cb81d8d8439/t/5db96927142fba69a232acf0/1572432168550/Cerros%2Bby%2BLaura%2BG.%2BGoetz%2BSpring%2B2019%2BIntima.pdf
+24.	[Cerros](https://static1.squarespace.com/static/54bc1287e4b09cb81d8d8439/t/5db96927142fba69a232acf0/1572432168550/Cerros%2Bby%2BLaura%2BG.%2BGoetz%2BSpring%2B2019%2BIntima.pdf). The Intima: A Journal of Narrative Medicine. Spring 2019. 
 25.	Inside Out. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018.
 26.	Formosa Hermosa. La Madrugada Magazine. 2015. 
 27.	Amistad y nada más. Vitality LGBTQ Magazine. 2015. 
