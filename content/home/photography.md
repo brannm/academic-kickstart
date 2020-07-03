@@ -68,10 +68,10 @@ subtitle = "To inquire about hiring for photography services, please email teddy
     * Columbia University, Department of Narrative Medicine
 
 ## Selected Published Photography:
-1. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. https://ailmentcoin.org/issues
-2. Irish Proverb. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
-3. Meditation in Motion. SIREN Magazine. Canto IV, 2019. http://cantodellasirena.com/mind-the-gap.html
-4. Photophobia. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
-5. Travel Log. SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
+1. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. 
+2. [Irish Proverb](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+3. [Meditation in Motion](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+4. [Photophobia](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
+5. [Travel Log](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. http://cantodellasirena.com/photophobia.html
 6. Diffraction. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018. 
 
