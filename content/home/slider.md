@@ -12,9 +12,6 @@ interval = false
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
 height = "500px"
-width = "200px"
-
-
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -24,54 +21,16 @@ width = "200px"
   content = ""
   align = ""
 
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "website_diffraction.png"  # Image path relative to your `static/img/` folder.
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = "IMG-9499.JPG"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = ""
-  content = ""
-  align = ""
+  title = "Right"
+  content = "I am right aligned :smile:"
+  align = "right"
 
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "website_irish_proverb.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "website_meditation_in_motion.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "website_photophobia.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "website_photosensitive.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-  
-[[item]]
-  title = ""
-  content = ""
-  align = ""
-
-  overlay_color = ""  # An HTML color value.
-  overlay_img = "website_travel_log.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
