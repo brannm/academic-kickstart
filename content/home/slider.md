@@ -22,7 +22,7 @@ height = "500px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "website_diffraction_3.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "1.jpeg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
