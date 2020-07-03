@@ -19,7 +19,7 @@ height = ""
 [[item]]
   title = ""
   content = ""
-  align = ""
+  align =   ""
 
   overlay_color = ""  # An HTML color value.
   overlay_img = "1.jpeg"  # Image path relative to your `static/img/` folder.
@@ -31,6 +31,6 @@ height = ""
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "website_irish_proverb_3.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
