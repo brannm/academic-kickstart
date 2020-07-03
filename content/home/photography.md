@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 145  # Order that this section will appear.
 
 title = "Photography"
-subtitle = "To inquire about hiring for photography services, please email teddy.goetz@columbia.edu"
+subtitle = "To inquire about hiring for photography services, please [email](teddy.goetz@columbia.edu)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
