@@ -21,16 +21,16 @@ height = "500px"
   content = ""
   align = ""
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "IMG-9499.JPG"  # Image path relative to your `static/img/` folder.
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "website_diffraction_3.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  title = ""
+  content = ""
+  align = ""
 
-  overlay_color = "#333"  # An HTML color value.
+  overlay_color = ""  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
