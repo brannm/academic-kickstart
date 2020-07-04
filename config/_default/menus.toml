@@ -45,7 +45,7 @@
 
 [[main]]
   name = "Photography"
-  url = "#slider"
+  url = "#photography"
   weight = 80
 
 
