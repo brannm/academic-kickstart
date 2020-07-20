@@ -53,35 +53,35 @@ subtitle = ""
 
 ## Selected Poetry:
 1.	Goliath. Open Minds Quarterly. Summer 2020. [In press]
-29.	Girl Code. In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
-28.	Green Thumb. The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. [In press]
-27.	Keyhole. Beyond Words Literary Magazine. 2020. [in press]
-26.	Double Helix. Lifelines Magazine, Dartmouth Medical School. 2020. [In press]
-25.	Contracted. Lifelines Magazine, Dartmouth Medical School. 2020. 
-24.	[White(coat) Noise](http://www.themspress.org/journal/index.php/journal/issue/view/33). The Medical Student Press Journal. 2020. 
-23.	[A Great Big World](https://link.springer.com/article/10.1007%2Fs10912-020-09616-8). Journal of the Medical Humanities. 2020. 
-22.	Pieces. Tendon Magazine, Johns Hopkins University Center for Medical Humanities & Social Medicine. Spring 2020. 
-21.	7 West. Harmony Magazine, University of Arizona Medical School. 2020. 
-20.	Caterpillar. Harmony Magazine, University of Arizona Medical School. 2020. 
-19.	[CFTR](http://www.theintima.org/poetry-a-f). The Intima: A Journal of Narrative Medicine. Fall 2019. 
-18.	[Monsoon Season](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
-17.	[Seedling](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
-16.	[64th Street](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
-15.	[Daylight Savings Time](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
-14.	[Extra Heart Sounds](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
-13.	[Mixed Signals](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
-12.	[Xanthopsia](https://static1.squarespace.com/static/598cb679db29d6413909bc23/t/5dbd27e2c7aa2f31f1cc618a/1572677624808/Iss04-Psych.pdf). Wards Literary Magazine. Issue 04. 2019. 
-11.	Karpas. Ponder Review. Vol. 3, Issue 2. 2019. 
-10.	[Bastante](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
-9.	[Mind the Gap](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
-8.	Granddaughter Gould. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2019. 
-7.	[Cerros](https://static1.squarespace.com/static/54bc1287e4b09cb81d8d8439/t/5db96927142fba69a232acf0/1572432168550/Cerros%2Bby%2BLaura%2BG.%2BGoetz%2BSpring%2B2019%2BIntima.pdf). The Intima: A Journal of Narrative Medicine. Spring 2019. 
-6.	Inside Out. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018.
-5.	Formosa Hermosa. La Madrugada Magazine. 2015. 
-4.	Amistad y nada más. Vitality LGBTQ Magazine. 2015. 
-3.	Seen at 11:21 pm. Vitality LGBTQ Magazine. 2015. 
-2.	Capítulos no vistos. La Madrugada Magazine. 2014. 
-1.	Letter To My Future Daughter. Fatale. 2013.
+2.	Girl Code. In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
+3.	Green Thumb. The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. [In press]
+4.	Keyhole. Beyond Words Literary Magazine. 2020. [in press]
+5.	Double Helix. Lifelines Magazine, Dartmouth Medical School. 2020. [In press]
+6.	Contracted. Lifelines Magazine, Dartmouth Medical School. 2020. 
+7.	[White(coat) Noise](http://www.themspress.org/journal/index.php/journal/issue/view/33). The Medical Student Press Journal. 2020. 
+8.	[A Great Big World](https://link.springer.com/article/10.1007%2Fs10912-020-09616-8). Journal of the Medical Humanities. 2020. 
+9.	Pieces. Tendon Magazine, Johns Hopkins University Center for Medical Humanities & Social Medicine. Spring 2020. 
+10.	7 West. Harmony Magazine, University of Arizona Medical School. 2020. 
+11.	Caterpillar. Harmony Magazine, University of Arizona Medical School. 2020. 
+12.	[CFTR](http://www.theintima.org/poetry-a-f). The Intima: A Journal of Narrative Medicine. Fall 2019. 
+13.	[Monsoon Season](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
+14.	[Seedling](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
+15.	[64th Street](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+16.	[Daylight Savings Time](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+17.	[Extra Heart Sounds](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+18.	[Mixed Signals](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+19.	[Xanthopsia](https://static1.squarespace.com/static/598cb679db29d6413909bc23/t/5dbd27e2c7aa2f31f1cc618a/1572677624808/Iss04-Psych.pdf). Wards Literary Magazine. Issue 04. 2019. 
+20.	Karpas. Ponder Review. Vol. 3, Issue 2. 2019. 
+21.	[Bastante](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+22.	[Mind the Gap](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+23.	Granddaughter Gould. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2019. 
+24.	[Cerros](https://static1.squarespace.com/static/54bc1287e4b09cb81d8d8439/t/5db96927142fba69a232acf0/1572432168550/Cerros%2Bby%2BLaura%2BG.%2BGoetz%2BSpring%2B2019%2BIntima.pdf). The Intima: A Journal of Narrative Medicine. Spring 2019. 
+25.	Inside Out. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018.
+26.	Formosa Hermosa. La Madrugada Magazine. 2015. 
+27.	Amistad y nada más. Vitality LGBTQ Magazine. 2015. 
+28.	Seen at 11:21 pm. Vitality LGBTQ Magazine. 2015. 
+29.	Capítulos no vistos. La Madrugada Magazine. 2014. 
+30.	Letter To My Future Daughter. Fatale. 2013.
 
 
 
