@@ -52,7 +52,7 @@ subtitle = ""
 +++
 
 ## Selected Poetry:
-30.	Goliath. Open Minds Quarterly. Summer 2020. [In press]
+1.	Goliath. Open Minds Quarterly. Summer 2020. [In press]
 29.	Girl Code. In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
 28.	Green Thumb. The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. [In press]
 27.	Keyhole. Beyond Words Literary Magazine. 2020. [in press]
