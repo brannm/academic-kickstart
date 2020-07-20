@@ -55,10 +55,10 @@ subtitle = ""
 1.	Goliath. Open Minds Quarterly. Summer 2020. (Poem) [In press]
 2.	Girl Code. In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
 3.	Green Thumb. The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. (Poem) [In press]
-4.	Contracted. Lifelines Magazine, Dartmouth Medical School. 2020. (Poem) [In press]
+4.	Keyhole. Beyond Words Literary Magazine. 2020. [in press]
 5.	Double Helix. Lifelines Magazine, Dartmouth Medical School. 2020. (Poem) [In press]
-6.	Keyhole. Beyond Words Literary Magazine. 2020. [in press]
-7.	White(coat) Noise. The Medical Student Press Journal. 2020. [in press]
+6.	Contracted. Lifelines Magazine, Dartmouth Medical School. 2020. (Poem)
+7.	[White(coat) Noise](http://www.themspress.org/journal/index.php/journal/issue/view/33). The Medical Student Press Journal. 2020. 
 8.	[A Great Big World](https://link.springer.com/article/10.1007%2Fs10912-020-09616-8). Journal of the Medical Humanities. 2020. 
 9.	Pieces. Tendon Magazine, Johns Hopkins University Center for Medical Humanities & Social Medicine. Spring 2020. 
 10.	7 West. Harmony Magazine, University of Arizona Medical School. 2020. 
