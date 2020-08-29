@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-09-01"
   date_end = ""
-  description = """MIndividual weekly tutoring of first, second, and third year students on pre-clinical curriculum and clinical skills<br/>
+  description = """Individual weekly tutoring of first, second, and third year students on pre-clinical curriculum and clinical skills<br/>
 Creating a review lecture on antibiotic mechanisms and utility
 """
 
