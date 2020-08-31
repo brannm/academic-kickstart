@@ -1,6 +1,6 @@
 ---
 title: Substance use and misuse in transgender individuals
-summary: Considering binary/non-binary identity, minority stress factors, and treatment acceptability factors 
+summary: Considering binary/non-binary identity, minority stress factors, and treatment acceptability factors [upcoming 1st author oral presentation at APHA 2020; manuscript submitted]
 tags:
 - Trans Health
 - Psychiatry
