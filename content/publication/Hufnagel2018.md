@@ -2,7 +2,7 @@
 title: "Icon immunoconjugate treatment results in regression of red lesions in a non-human primate (Papio anubis) model of endometriosis"
 authors:
 - Demetra Hufnage†
-- Laura G. Goetz†
+- Teddy G. Goetz†
 - Zhiwei Hu
 - Atunga Nyachieo
 - Thomas D’Hooghe
