@@ -1,7 +1,7 @@
 ---
 title: "Reoxygenating Research"
 authors:
-- Laura G. Goetz
+- Teddy G. Goetz
 
 date: "2017-02-25"
 doi: ""
