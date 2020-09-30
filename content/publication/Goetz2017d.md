@@ -1,7 +1,7 @@
 ---
 title: "Addition of Estradiol to Cross-Sex Testosterone Therapy Reduces Atherosclerosis Plaque Formation in Female ApoE−/− Mice"
 authors:
-- Laura G. Goetz
+- Teddy G. Goetz
 - Ramanaiah Mamillapalli
 - Cagdas Sahin
 - Masoumeh Majidi-Zolbin

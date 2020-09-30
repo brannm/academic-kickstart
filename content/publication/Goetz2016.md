@@ -1,7 +1,7 @@
 ---
 title: "Low Body Mass Index in Endometriosis Is Promoted by Hepatic Metabolic Gene Dysregulation in Mice"
 authors:
-- Laura G. Goetz
+- Teddy G. Goetz
 - Ramanaiah Mamillapalli
 - Hugh S. Taylor 
 date: "2016-12-01"
