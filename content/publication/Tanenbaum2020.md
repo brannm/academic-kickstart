@@ -31,6 +31,8 @@ abstract:
 summary:
 
 tags:
+- Trans health
+- LGBTQ
 
 featured: false
 
