@@ -52,7 +52,7 @@ subtitle = ""
 +++
 
 ## Selected Poetry:
-1.	For Hollis (Reprise). In: LAMP Anthology Volume 1. Dots Publications Press. [accepted]
+1.	For Hollis (Reprise). In: LAMP Anthology Volume 1. Dots Publications Press. [Accepted]
 2.  Fermentation. CircleShow. Fall 2020. [In press]
 2.  Forsaken. CircleShow. Fall 2020. [In press]
 3.  Revelation (6). CircleShow. Fall 2020. [In press]
