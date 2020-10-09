@@ -1,7 +1,7 @@
 ---
 title: "Cross-sex testosterone therapy in ovariectomized mice: addition of low-dose estrogen preserves bone architecture"
 authors:
-- Laura G. Goetz
+- Teddy G. Goetz
 - Ramanaiah Mamillapalli
 - Maureen J. Devlin
 - Amy E. Robbins
