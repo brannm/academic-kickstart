@@ -59,7 +59,7 @@ subtitle = ""
 4.  Girl Code. In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
 2.  Green Thumb. The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. [In press]
 3.	Keyhole. Beyond Words Literary Magazine. 2020. [In press]
-4.  My White Coat. Pique Magazine. Issue 1. 2020. 
+4.  [My White Coat](https://www.pique-magazine.com/2020-09-24-my-white-coat). Pique Magazine. Issue 1. 2020. 
 4.  [Girl Code](http://www.freezeraypoetry.com/teddy-g-goetz.html). Freeze Ray Poetry. Vol. 18. 2020.
 5.  [Goliath](https://www.openmindsquarterly.com/product/summer-2020-queer-stories-pdf/). Open Minds Quarterly. Summer 2020.
 5.	Double Helix. Lifelines Magazine, Dartmouth Medical School. 2020.
