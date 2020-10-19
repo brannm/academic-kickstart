@@ -1,7 +1,7 @@
 ---
 title: "From Badge to Coat"
 authors:
-- Laura G Goetz
+- Teddy G Goetz
 
 date: "2018-12-01"
 doi: ""

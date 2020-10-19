@@ -52,6 +52,9 @@ subtitle = ""
 +++
 
 ## Selected Poetry:
+1. After the Beep. Stonecoast Review. Issue 14. 2021. [In press]
+2. I-80E. Stonecoast Review. Issue 14. 2021. [In press]
+3. The Year of the Nightmare. Stonecoast Review. Issue 14. 2021. [In press]
 1.	For Hollis (Reprise). In: LAMP Anthology Volume 1. Dots Publications Press. [Accepted]
 2.  Fermentation. CircleShow. Fall 2020. [In press]
 2.  Forsaken. CircleShow. Fall 2020. [In press]
