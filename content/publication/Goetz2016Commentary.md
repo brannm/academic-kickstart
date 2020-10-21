@@ -1,7 +1,7 @@
 ---
 title: "Letter to the editor: Subsidize health"
 authors:
-- Laura G Goetz
+- Teddy G Goetz
 
 date: "2016-02-06"
 doi: ""

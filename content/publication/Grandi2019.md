@@ -4,7 +4,7 @@ authors:
 - Claudia De Grandi
 - Zachary B. Smithline
 - Philip M. Reeves
-- Laura G. Goetz
+- Teddy G. Goetz
 - Nathaniel Barbour
 - Erika Hairston
 - Joyce Guo
