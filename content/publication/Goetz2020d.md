@@ -2,11 +2,11 @@
 title: "Sexual and Gender Minority Curriculum and Diversity Within Otolaryngology Residency Programs"
 authors:
 - Teddy G Goetz
-- CL Nieman
-- S Chaiet
-- SD Morrison SD
-- C Cabrera-Muffly
-- LR Lustig
+- Carrie L. Nieman
+- Scott R Chaiet
+- Shane D Morrison
+- Cristina Cabrera-Muffly
+- Lawrence R. Lustig
 
 
 
