@@ -25,6 +25,10 @@ abstract:
 summary:
 
 tags:
+- LGBTQ
+- Trans health
+- Psychiatry
+- Narrative medicine
 
 featured: false
 

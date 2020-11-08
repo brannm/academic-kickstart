@@ -55,13 +55,13 @@ subtitle = ""
 1. After the Beep. Stonecoast Review. Issue 14. 2021. [In press]
 2. I-80E. Stonecoast Review. Issue 14. 2021. [In press]
 3. The Year of the Nightmare. Stonecoast Review. Issue 14. 2021. [In press]
-1.	For Hollis (Reprise). In: LAMP Anthology Volume 1. Dots Publications Press. [Accepted]
+1.	[For Hollis (Reprise)](https://dotspublications.com/products/lamp-volume-1-test-run?variant=35840795934885). In: LAMP Anthology Volume 1. Dots Publications Press. [Accepted]
 2.  Fermentation. CircleShow. Fall 2020. [In press]
 2.  Forsaken. CircleShow. Fall 2020. [In press]
 3.  Revelation (6). CircleShow. Fall 2020. [In press]
-4.  Girl Code. In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
-2.  Green Thumb. The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. [In press]
-3.	Keyhole. Beyond Words Literary Magazine. 2020. [In press]
+4.  [Girl Code](http://www.damagedgoodspress.com/product/the-impossible-beast-queer-erotic-poems/). In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. [In press]
+2.  [Green Thumb](https://www.upstate.edu/bioethics/thehealingmuse/excerpts/excerpts-muse19.php). The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. [In press]
+3.	[Keyhole](https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615). Beyond Words Literary Magazine. 2020. [In press]
 4.  [My White Coat](https://www.pique-magazine.com/2020-09-24-my-white-coat). Pique Magazine. Issue 1. 2020. 
 4.  [Girl Code](http://www.freezeraypoetry.com/teddy-g-goetz.html). Freeze Ray Poetry. Vol. 18. 2020.
 5.  [Goliath](https://www.openmindsquarterly.com/product/summer-2020-queer-stories-pdf/). Open Minds Quarterly. Summer 2020.
