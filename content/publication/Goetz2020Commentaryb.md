@@ -3,7 +3,7 @@ title: "Trans. Visible. Unapologetic."
 authors:
 - Teddy G Goetz
 
-date: "2020-11-07"
+date: "2020-11-18"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ featured: false
 #links:
 #- name: "Link"
 # url: 
-url_pdf: ""
+url_pdf: "https://sisterstem.org/2020/11/18/trans-visible-unapologetic/"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
