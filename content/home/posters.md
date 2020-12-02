@@ -19,6 +19,36 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "American Psychiatric Association Meeting: Los Angeles, CA"
+  organization_url = ""
+  title = "The Patients Beneath White Coats: An Exploration of Medical Student Professional Identity Formation"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-01"
+  date_end = ""
+  description = ""
+  
+  [[item]]
+  organization = "American Psychiatric Association Meeting: Los Angeles, CA"
+  organization_url = ""
+  title = "Self(ie)-Recognition: Authenticity, Passing, and Trans Embodied Imaginaries"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "American Psychiatric Association Meeting: Los Angeles, CA"
+  organization_url = ""
+  title = "Swapping Gender is a Snap(chat): Limitations of (Trans) Gendered Legibility Within Binary Digital and Human Filters"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Society for Reproductive Investigation Conference: Montreal, Canada"
   organization_url = ""
   title = "Bisphenol-A Exposure In Utero Programs a Sexually Dimorphic Estrogen Response of Metabolic Genes in the Murine Liver"
