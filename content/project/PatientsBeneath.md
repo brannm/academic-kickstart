@@ -1,6 +1,6 @@
 ---
 title: The Patients Beneath White Coats
-summary: A survey-based exploration of medical student professional identity formation with regards to identifying as a patient/loved one vs. as a medical provider, and if this differs based on the medical specialty in which the personal experience occurred [1st author manuscript and abstract submitted] (supported by Steve Miller Fellowship, Columbia VP&S)
+summary: A survey-based exploration of medical student professional identity formation with regards to identifying as a patient/loved one vs. as a medical provider, and if this differs based on the medical specialty in which the personal experience occurred [1st author manuscript submitted; upcoming poster presentation at APA 2021] (supported by Steve Miller Fellowship, Columbia VP&S)
 
 tags:
 - Psychiatry

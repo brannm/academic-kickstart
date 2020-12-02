@@ -2,8 +2,8 @@
 title: "Women, Opioids and Addiction"
 authors:
 - Teddy G Goetz
-- JB Becker
-- CM Mazure
+- Jill B Becker
+- Carolyn M Mazure
 
 
 

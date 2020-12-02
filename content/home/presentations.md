@@ -171,16 +171,6 @@ date_format = "Jan 2006"
  [[item]]
   organization = "American Psychiatric Association Meeting: Los Angeles, CA"
   organization_url = ""
-  title = "LGBTQ+ Medical Students and Applying to Psychiatry Residency"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-05-01"
-  date_end = ""
-  description = "" 
-  
- [[item]]
-  organization = "American Psychiatric Association Meeting: Los Angeles, CA"
-  organization_url = ""
   title = "Sex and Paperwork: The Ethics of Identification Documents that Misidentify One’s Sex and Gender"
   url = ""
   certificate_url = ""
