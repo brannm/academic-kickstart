@@ -52,12 +52,13 @@ subtitle = ""
 +++
 
 ## Selected Poetry:
+1. Goetz TG. Forsaken. Hoxie Gorge Review. (Poem) [Accepted]
 1. After the Beep. Stonecoast Review. Issue 14. 2021. [In press]
 2. I-80E. Stonecoast Review. Issue 14. 2021. [In press]
 3. The Year of the Nightmare. Stonecoast Review. Issue 14. 2021. [In press]
-2.  [Fermentation](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. [In press]
-2.  [Forsaken](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. [In press]
-3.  [Revelation (6)](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. [In press]
+2.  [Fermentation](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
+2.  [Forsaken](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
+3.  [Revelation (6)](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
 1.	[For Hollis (Reprise)](https://dotspublications.com/products/lamp-volume-1-test-run?variant=35840795934885). In: LAMP Anthology Volume 1. Dots Publications Press. 
 4.  [Girl Code](http://www.damagedgoodspress.com/product/the-impossible-beast-queer-erotic-poems/). In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. 
 2.  [Green Thumb](https://www.upstate.edu/bioethics/thehealingmuse/excerpts/excerpts-muse19.php). The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. 
