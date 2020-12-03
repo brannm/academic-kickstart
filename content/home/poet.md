@@ -52,7 +52,7 @@ subtitle = ""
 +++
 
 ## Selected Poetry:
-1. Goetz TG. Forsaken. Hoxie Gorge Review. (Poem) [Accepted]
+1. Forsaken. Hoxie Gorge Review. [Accepted]
 1. After the Beep. Stonecoast Review. Issue 14. 2021. [In press]
 2. I-80E. Stonecoast Review. Issue 14. 2021. [In press]
 3. The Year of the Nightmare. Stonecoast Review. Issue 14. 2021. [In press]
