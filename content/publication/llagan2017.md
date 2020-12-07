@@ -3,7 +3,7 @@ title: "Bisphenol-A exposure in utero programs a sexually dimorphic estrogenic s
 authors:
 - Ysabel Ilagan
 - Ramanaiah Mamillapalli
-- Laura G. Goetz
+- Teddy G. Goetz
 - Jehanzeb Kayani
 - Hugh S. Taylor
 
