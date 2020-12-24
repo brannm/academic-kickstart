@@ -27,13 +27,7 @@ publication_types: ["2"]
 publication: "Transgender Health"
 publication_short: ""
 
-abstract: "Purpose: Otolaryngologists are uniquely situated to provide sexual and gender minority (SGM) care, including gender-affirmation (voice/communication, facial surgery) and HIV/AIDS-related conditions. Yet, no research has characterized otolaryngology residency program directors' attitudes toward SGM-related curricula, nor opportunities for supporting training in SGM-related care.
-
-Methods: An anonymous cross-sectional e-mail survey was disseminated to 116 otolaryngology residency program directors in July–September 2019. Information collected included current/future curriculum in and attitudes toward SGM care, and program demographics. Data were categorical and analysis utilized chi-square test.
-
-Results: The 65 complete responses (56% rate) were nationally representative. Overall, 17% of programs include no SGM-related education. Subjective importance of SGM training ranged from not important at all (3%) to absolutely essential (11%), with mode of average importance (47%); this varied significantly by program geographic setting and population, and program size. The mean percentage of curriculum dedicated to SGM care was 1.0% for didactics and 0.7% for clinical. Curricula include HIV/AIDS-related conditions (58%), facial gender-affirming procedures (50%), culturally informed care (42%), changes with gender-affirming hormones (voice/communication: 48%, facial: 22%), and cancer in SGM patients (42%). Frequently reported barriers were insufficient experienced faculty (52%) and time (42%). Program directors deemed visiting expert lectures (66%), small-group discussion (39%), and online modules (27%) the best ways to incorporate SGM education.
-
-Conclusions: More than 80% of otolaryngology residency curricula in a representative national survey include SGM-related education, which represents a limited portion of total curriculum. These results highlight the opportunity for expert lectures and discussion-based and online tool development to facilitate standardized SGM education in otolaryngology residencies."
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:
