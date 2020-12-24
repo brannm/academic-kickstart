@@ -27,9 +27,7 @@ publication_types: ["2"]
 publication: "Transgender Health"
 publication_short: ""
 
-abstract: 
-"
-Purpose: Otolaryngologists are uniquely situated to provide sexual and gender minority (SGM) care, including gender-affirmation (voice/communication, facial surgery) and HIV/AIDS-related conditions. Yet, no research has characterized otolaryngology residency program directors' attitudes toward SGM-related curricula, nor opportunities for supporting training in SGM-related care.
+abstract: "Purpose: Otolaryngologists are uniquely situated to provide sexual and gender minority (SGM) care, including gender-affirmation (voice/communication, facial surgery) and HIV/AIDS-related conditions. Yet, no research has characterized otolaryngology residency program directors' attitudes toward SGM-related curricula, nor opportunities for supporting training in SGM-related care.
 
 Methods: An anonymous cross-sectional e-mail survey was disseminated to 116 otolaryngology residency program directors in July–September 2019. Information collected included current/future curriculum in and attitudes toward SGM care, and program demographics. Data were categorical and analysis utilized chi-square test.
 
