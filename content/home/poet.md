@@ -52,10 +52,11 @@ subtitle = ""
 +++
 
 ## Selected Poetry:
-1. [Forsaken](https://hoxiegorgereview.com/teddy-g-goetz/). Hoxie Gorge Review. [Accepted]
+
 1. After the Beep. Stonecoast Review. Issue 14. 2021. [In press]
 2. I-80E. Stonecoast Review. Issue 14. 2021. [In press]
 3. The Year of the Nightmare. Stonecoast Review. Issue 14. 2021. [In press]
+4. [Forsaken](https://hoxiegorgereview.com/teddy-g-goetz/). Hoxie Gorge Review. 
 2.  [Fermentation](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
 2.  [Forsaken](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
 3.  [Revelation (6)](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
