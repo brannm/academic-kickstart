@@ -52,7 +52,7 @@ subtitle = ""
 +++
 
 ## Selected Poetry:
-1. Forsaken. Hoxie Gorge Review. [Accepted]
+1. [Forsaken](https://hoxiegorgereview.com/teddy-g-goetz/). Hoxie Gorge Review. [Accepted]
 1. After the Beep. Stonecoast Review. Issue 14. 2021. [In press]
 2. I-80E. Stonecoast Review. Issue 14. 2021. [In press]
 3. The Year of the Nightmare. Stonecoast Review. Issue 14. 2021. [In press]
@@ -66,8 +66,8 @@ subtitle = ""
 4.  [My White Coat](https://www.pique-magazine.com/2020-09-24-my-white-coat). Pique Magazine. Issue 1. 2020. 
 4.  [Girl Code](http://www.freezeraypoetry.com/teddy-g-goetz.html). Freeze Ray Poetry. Vol. 18. 2020.
 5.  [Goliath](https://www.openmindsquarterly.com/product/summer-2020-queer-stories-pdf/). Open Minds Quarterly. Summer 2020.
-5.	Double Helix. Lifelines Magazine, Dartmouth Medical School. 2020.
-6.	Contracted. Lifelines Magazine, Dartmouth Medical School. 2020. 
+5.	[Double Helix](https://sites.dartmouth.edu/lifelines/volume-10/). Lifelines Magazine, Dartmouth Medical School. 2020.
+6.	[Contracted](https://sites.dartmouth.edu/lifelines/volume-10/). Lifelines Magazine, Dartmouth Medical School. 2020. 
 7.	[White(coat) Noise](http://www.themspress.org/journal/index.php/journal/issue/view/33). The Medical Student Press Journal. 2020. 
 8.	[A Great Big World](https://link.springer.com/article/10.1007%2Fs10912-020-09616-8). Journal of the Medical Humanities. 2020. 
 9.	Pieces. Tendon Magazine, Johns Hopkins University Center for Medical Humanities & Social Medicine. Spring 2020. 
