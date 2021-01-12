@@ -76,7 +76,7 @@ height = "500px"
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "risen_website_1x3"  # Image path relative to your `static/img/` folder.
+  overlay_img = "risen_website.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.  
 
 +++
