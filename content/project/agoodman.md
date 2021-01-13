@@ -1,10 +1,12 @@
 ---
 title: Substance use and misuse in transgender individuals
-summary: Considering binary/non-binary identity, minority stress factors, and treatment acceptability factors [1st author oral presentation at APHA 2020; manuscript accepted to Drug and Alcohol Dependence]
+summary:  Autotheory amalgam of memoir, poetry, journal excerpts, and feminist/queer/trans theory exploring the binds of gender and transness, and probing the bounds of non-toxic masculinity [1 book in preparation]
 tags:
 - Trans Health
 - Psychiatry
 - LGBTQ
+- Psychiatry
+- Narrative Medicine
 
 
 

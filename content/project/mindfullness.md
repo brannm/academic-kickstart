@@ -1,6 +1,6 @@
 ---
 title: Mindfulness for Psychosis
-summary: Developed a mindfulness for psychosis intervention for psychiatric patients in the inpatients setting based upon Paul Chadwick's Person-Based Cognitive Therapy to reduce distressing psychosis in the outpatient setting
+summary: Developed a mindfulness for psychosis intervention for psychiatric patients in the inpatients setting based upon Paul Chadwick's Person-Based Cognitive Therapy to reduce distressing psychosis in the outpatient setting [1st author manuscript in preparation]
 
 
 tags:

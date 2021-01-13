@@ -1,6 +1,6 @@
 ---
 title: Terminal Transition
-summary: Conducted ethnographic research on the violence incurred by societal narratives of gender “transition” as a finite, terminal process [2 only author manuscripts in preparation]
+summary: Conducted ethnographic research on the violence incurred by societal narratives of gender “transition” as a finite, terminal process [1 book and 2 manuscripts in preparation; 2 abstracts submitted]
 
 
 tags:
