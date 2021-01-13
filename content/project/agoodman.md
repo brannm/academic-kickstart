@@ -1,5 +1,5 @@
 ---
-title: Substance use and misuse in transgender individuals
+title: A Good Man
 summary:  Autotheory amalgam of memoir, poetry, journal excerpts, and feminist/queer/trans theory exploring the binds of gender and transness, and probing the bounds of non-toxic masculinity [1 book in preparation]
 tags:
 - Trans Health
