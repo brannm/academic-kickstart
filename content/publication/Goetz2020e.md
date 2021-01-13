@@ -8,7 +8,7 @@ authors:
 
 
 
-date: "2020-12-01"
+date: "2021-01-12"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "FASEB"
 publication_short: ""
 
-abstract: 
+abstract: In the midst of the current coronavirus pandemic, the United States continues to struggle with an ongoing opioid epidemic, initially fueled by widespread prescribing of opioid medications during the 1990s. The primary reason for prescribing opioids is to treat pain. Women have more acute and chronic pain and have been prescribed these drugs in significantly greater numbers than men. Comparison of women and men with chronic pain also shows that women receive the majority of prescription opioids, and the use of these prescribed medications became the major pathway to misuse and addiction for women. Yet, recognition of the extent of women's exposure to opioids and the attendant consequences has been limited. Attempts to stem the overall tide of the epidemic focused on reducing the availability of prescription opioids. However, as these medications became more difficult to obtain and treatment opportunities were limited, many turned to other synthetic opioids, such as heroin and fentanyl. Thus, the public health crisis of opioid addiction has endured. This paper highlights the importance of understanding differences among women and men in opioid use and its biological and psychosocial effects to advance the gender‐based treatment approaches and effective public health policy.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -38,7 +38,7 @@ featured: false
 links:
 #- name: "Link"
 # url: 
-url_pdf: ""
+url_pdf: "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.202002125R"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
