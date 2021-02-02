@@ -1,7 +1,7 @@
 ---
 title: "The ecology of anemia: Anemia prevalence and correlated factors in adult indigenous women in Argentina"
 authors:
-- Laura G. Goetz
+- Teddy G. Goetz
 - Claudia Valeggia
 
 date: "2017-01-19"
