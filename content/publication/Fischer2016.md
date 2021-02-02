@@ -3,7 +3,7 @@ title: "Bisphenol A (BPA) Exposure In Utero Leads to Immunoregulatory Cytokine D
 authors:
 - Catha Fischer
 - Ramanaiah Mamillapalli 
-- Laura G. Goetz
+- Teddy G. Goetz
 - Elisa Jorgenson 
 - Ysabel Ilagan
 - Hugh S. Taylor 

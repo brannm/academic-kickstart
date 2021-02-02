@@ -2,7 +2,7 @@
 title: "A time to be born: Variation in the hour of birth in a rural population of Northern Argentina"
 authors:
 - Carlye Chaney
-- Laura G. Goetz
+- Teddy G. Goetz
 - Claudia Valeggia
 
 date: "2018-04-17"

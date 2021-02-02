@@ -4,7 +4,7 @@ authors:
 - Masoumeh Majidi Zolbin
 - Ramanaiah Mamillapalli
 - Sepide E. Nematian
-- Laura G. Goetz
+- Teddy G. Goetz
 - Hugh S. Taylor
 
 date: "2019-04-15"
