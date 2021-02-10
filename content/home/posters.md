@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "LGBT Health Workforce Conference: New York, NY"
+  organization_url = ""
+  title = "An Ethnographic Exploration of How Medical and Surgical Gender-Affirming Care-Seeking Impacts Mental Health"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-04-01"
+  date_end = ""
+  description = ""
+  
+  
+[[item]]
+  organization = "LGBT Health Workforce Conference: New York, NY"
+  organization_url = ""
+  title = "“X” Marks The Transgressive Gender: An Ethnographic Exploration of Legal Gender Affirmation"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-04-01"
+  date_end = ""
+  description = ""  
+
+[[item]]
   organization = "American Psychiatric Association Meeting: Los Angeles, CA"
   organization_url = ""
   title = "The Patients Beneath White Coats: An Exploration of Medical Student Professional Identity Formation"
