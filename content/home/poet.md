@@ -53,7 +53,8 @@ subtitle = ""
 
 ## Selected Poetry:
 
-1. [After the Beep](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
+1. Community. Consilience Journal. Issue 4. 2021. [In press]
+2. [After the Beep](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
 2. [I-80E](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
 3. [The Year of the Nightmare](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
 4. [Forsaken](https://hoxiegorgereview.com/teddy-g-goetz/). Hoxie Gorge Review. 
@@ -63,7 +64,7 @@ subtitle = ""
 1.	[For Hollis (Reprise)](https://dotspublications.com/products/lamp-volume-1-test-run?variant=35840795934885). In: LAMP Anthology Volume 1. Dots Publications Press. 
 4.  [Girl Code](http://www.damagedgoodspress.com/product/the-impossible-beast-queer-erotic-poems/). In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. 
 2.  [Green Thumb](https://www.upstate.edu/bioethics/thehealingmuse/excerpts/excerpts-muse19.php). The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. 
-3.	[Keyhole](https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-A-Collection-of-Poems-p218768615). Beyond Words Literary Magazine. 2020. 
+3.	[Keyhole](https://www.beyondwordsmag.com/online-store/Beyoznd-Queer-Words-A-Collection-of-Poems-p218768615). Beyond Words Literary Magazine. 2020. 
 4.  [My White Coat](https://www.pique-magazine.com/2020-09-24-my-white-coat). Pique Magazine. Issue 1. 2020. 
 4.  [Girl Code](http://www.freezeraypoetry.com/teddy-g-goetz.html). Freeze Ray Poetry. Vol. 18. 2020.
 5.  [Goliath](https://www.openmindsquarterly.com/product/summer-2020-queer-stories-pdf/). Open Minds Quarterly. Summer 2020.
