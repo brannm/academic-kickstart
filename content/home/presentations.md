@@ -178,15 +178,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "" 
   
- [[item]]
-  organization = "American Psychiatric Association Meeting: Los Angeles, CA"
-  organization_url = ""
-  title = "Providing Equitable Healthcare to Marginalized Groups Via Student-Run Mental Health Clinics: Approaches, Advantages and Challenges during COVID-19"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-05-01"
-  date_end = ""
-  description = ""   
 
 
 +++

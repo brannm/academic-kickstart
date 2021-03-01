@@ -54,6 +54,7 @@ subtitle = ""
 ## Selected Poetry:
 
 1. Community. Consilience Journal. Issue 4. 2021. [In press]
+2.  Make a Wish. Sheila-Na-Gig Journal. Volume 5.2. 2021.  [In press]
 2. [After the Beep](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
 2. [I-80E](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
 3. [The Year of the Nightmare](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
