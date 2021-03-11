@@ -18,7 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
-  organization = "American Medical Student Association (National)"
+  organization = "Editor’s Pick Poem (“Community”)"
+  organization_url = ""
+  title = "Consilience Journal, Issue 4"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-01"
+  date_end = ""
+  description = ""
+[[item]]
+  organization = "American Medical Student Association and GLMA (National)"
   organization_url = ""
   title = "LGBT Health Achievement Award"
   url = ""
