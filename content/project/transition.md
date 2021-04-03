@@ -1,6 +1,6 @@
 ---
 title: Terminal Transition
-summary: Conducted ethnographic research on the violence incurred by societal narratives of gender “transition” as a finite, terminal process [1 book and 2 manuscripts in preparation; 2 upcoming poster presentations at LGBT Health Workforce Conference 2021]
+summary: Conducted ethnographic research on the violence incurred by societal narratives of gender “transition” as a finite, terminal process [1 book and 2 manuscripts in preparation; 2 upcoming poster presentations at LGBT Health Workforce Conference 2021;1st prize at Columbia VP&S Student Research Day]
 
 
 tags:

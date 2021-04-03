@@ -1,6 +1,6 @@
 ---
 title: Gendered legibility of faces
-summary: An ethnographic and quantitative juxtaposition of digital categorization algorithms with embodied experiences of transgender individuals [1st author manuscript submitted; upcoming poster presentation at APA 2021]
+summary: An ethnographic and quantitative juxtaposition of digital categorization algorithms with embodied experiences of transgender individuals [1st author manuscript submitted; upcoming poster presentation at APA 2021 and and COMET 2021]
 
 
 tags:
