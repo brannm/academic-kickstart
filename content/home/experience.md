@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2021-05-01"
   description = """Individual weekly tutoring of first, second, and third year students on pre-clinical curriculum and clinical skills<br/>
 Creating a review lecture on antibiotic mechanisms and utility
 """

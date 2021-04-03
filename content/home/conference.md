@@ -85,7 +85,7 @@ subtitle = ""
 7.	Goetz TG, Devlin M. Self(ie)-Recognition: Authenticity, Passing, and Trans Embodied Imaginaries. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
  .	LGBTQ
 8.	**Goetz TG**, Devlin M. Swapping Gender is a Snap(chat): Limitations of (Trans) Gendered Legibility Within Binary Digital and Human Filters. American Psychiatric Association Meeting. Los Angeles, CA. May 2021. 
-9.	Kinariwalla N, Hickey B, Goetz TG, Lostaglio M, Pike K. The Impact of Mixed Media Campaigns On Reducing Mental Health Stigma. Eastern-Atlantic Student Research Forum. Miami, FL. Feb. 2021.
+9.	Kinariwalla N, Hickey B, **Goetz TG**, Lostaglio M, Pike K. The Impact of Mixed Media Campaigns On Reducing Mental Health Stigma. Eastern-Atlantic Student Research Forum. Miami, FL. Feb. 2021.
 10.	Nolan IT, Blasdel G, Dubin S, **Goetz TG**, Morrison SD. Transgender Healthcare Education: A Literature Review with Focus on Educational Assessment. LGBT Health Workforce Conference. New York, NY. June 2020.
 11.	**Goetz TG**, Lustig LR. Sexual and Gender Minority Diversity and Curriculum within Otolaryngology Residency: A National Survey of Program Directors.  Student Research Day, Columbia University, College of Physicians and Surgeons, New York, NY. Mar.  2020. *Cancelled due to COVID-19
 12.	Keyes T, Zucker S, **Goetz L**, Jia JL, Muñoz R, Carlsen T, Kamceva M, Kanuparthy M, Matheson M, Zucker S, Subak L. Sexual and Gender Minority (SGM) Affinity Groups at U.S. Schools: A Needs-Assessment Towards a National Forum. 37th Annual GLMA Conference on LGBTQ Health. New Orleans, LA. Sep. 2019.
