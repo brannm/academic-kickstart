@@ -79,7 +79,7 @@ subtitle = ""
 4.	**Goetz TG**, Arcomano AC, Devlin MJ. “Coming Home to My Body”: An Ethnographic Exploration of How Medical and Surgical Gender-Affirming Care-Seeking Impacts Mental Health. LGBT Health Workforce Conference. New York, NY. Apr. 2021.
 5.	**Goetz TG**, Arcomano AC, Devlin MJ. “X” Marks The Transgressive Gender: An Ethnographic Exploration of Legal Gender Affirmation. LGBT Health Workforce Conference. New York, NY. Apr. 2021.
 6.	**Goetz TG**, Cutler J. The Patients Beneath White Coats: An Exploration of Medical Student Professional Identity Formation. American Psychiatric Association Meeting. Los Angeles, CA. May 2021. 
-7.	Goetz TG, Devlin M. Self(ie)-Recognition: Authenticity, Passing, and Trans Embodied Imaginaries. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
+7.	**Goetz TG**, Devlin M. Self(ie)-Recognition: Authenticity, Passing, and Trans Embodied Imaginaries. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
 8.	**Goetz TG**, Devlin M. Swapping Gender is a Snap(chat): Limitations of (Trans) Gendered Legibility Within Binary Digital and Human Filters. American Psychiatric Association Meeting. Los Angeles, CA. May 2021. 
 9.	Kinariwalla N, Hickey B, **Goetz TG**, Lostaglio M, Pike K. The Impact of Mixed Media Campaigns On Reducing Mental Health Stigma. Eastern-Atlantic Student Research Forum. Miami, FL. Feb. 2021.
 10.	Nolan IT, Blasdel G, Dubin S, **Goetz TG**, Morrison SD. Transgender Healthcare Education: A Literature Review with Focus on Educational Assessment. LGBT Health Workforce Conference. New York, NY. June 2020.
