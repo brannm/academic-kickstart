@@ -17,6 +17,27 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Columbia VP&S"
+  organization_url = ""
+  title = "Alpha Omega Alpha Honor Society member"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Columbia VP&S"
+  organization_url = ""
+  title = "Gold Humanitarian Honor Society member"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-04-01"
+  date_end = ""
+  description = ""
+
 [[item]]
   organization = "Student Research Day, Columbia VP&S"
   organization_url = ""
