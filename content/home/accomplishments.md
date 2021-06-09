@@ -21,6 +21,26 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Columbia VP&S"
   organization_url = ""
+  title = "Dr. William Raynor Watson Memorial Award in Psychiatry"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-19"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Columbia VP&S"
+  organization_url = ""
+  title = "Outstanding Service to Vagelos College of Physicians & Surgeons Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-19"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Columbia VP&S"
+  organization_url = ""
   title = "Alpha Omega Alpha Honor Society member"
   url = ""
   certificate_url = ""
