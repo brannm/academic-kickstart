@@ -31,7 +31,7 @@ tags:
 - Narrative medicine
 - Science, Technology, and Society Studies
 
-featured: true
+featured: false
 
 #links:
 #- name: "Link"
