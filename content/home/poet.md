@@ -89,7 +89,7 @@ subtitle = ""
 34.	[Bastante](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
 35.	[Mind the Gap](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
 36.	Granddaughter Gould. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2019. 
-37.	[Cerros](https://static1.squarespace.com/static/54bc1287e4b09cb81d8d8439/t/5db96927142fba69a232acf0/1572432168550/Cerros%2Bby%2BLaura%2BG.%2BGoetz%2BSpring%2B2019%2BIntima.pdf). The Intima: A Journal of Narrative Medicine. Spring 2019. 
+37.	[Cerros](http://www.theintima.org/poetry-a-f). The Intima: A Journal of Narrative Medicine. Spring 2019. 
 38.	Inside Out. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018.
 39.	Formosa Hermosa. La Madrugada Magazine. 2015. 
 40.	Amistad y nada más. Vitality LGBTQ Magazine. 2015. 
