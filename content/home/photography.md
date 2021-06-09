@@ -57,11 +57,11 @@ subtitle = "To inquire about hiring for photography services, please [email](ted
 
 ##### Headshots
 * Freelance; for business and theatrical use (06/2017-Present)
-* Bard Hall Players Theater Ensemble (02/2018-Present)
+* Bard Hall Players Theater Ensemble (02/2018-05/2021)
 ##### Events
-* Columbia University, Vagelos College of Physicians and Surgeons (01/2019-Present)
+* Columbia University, Vagelos College of Physicians and Surgeons (01/2019-05/2021)
 ##### Performances 
-* Bard Hall Players Theater Ensemble (02/2018-Present)
+* Bard Hall Players Theater Ensemble (02/2018-05/2021)
 
 ## Selected Photography Art Exhibitions and Showcases:
 * Arts and Humanities StudioLab Showcase (01/28/2020)
