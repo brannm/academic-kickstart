@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Teddy Goetz
+title: Teddy G. Goetz, MD, MS
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Medical Student
+role: Psychiatry Resident
 
 # Organizations/Affiliations
 organizations:
-- name: Columbia University
+- name: University of Pennsylvania
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,12 +29,17 @@ interests:
 - Physician advocacy
 - Science, Technology, and Society Studies
 
+Post-Graduate Training:
+  courses:
+  - course: Resident Physician
+    institution: University of Pennsylvania, Department of Psychiatry
+    year: 2025 (expected)
 
 education:
   courses:
-  - course: M.D. Candidate
+  - course: MD
     institution: Columbia University, Vagelos College of Physicians and Surgeons
-    year: 2021 (expected)
+    year: 2021 
   - course: MS in Molecular Biophysics and Biochemistry
     institution: Yale University
     year: 2017
@@ -50,7 +55,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:teddy.goetz@columbia.edu  # For a direct email link, use "mailto: teddy.goetz@columbia.edu".
+  link: mailto:teddy.goetz@pennmedicine.upenn.edu  # For a direct email link, use "mailto: teddy.goetz@columbia.edu".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -79,4 +84,4 @@ user_groups:
 - Visitors
 ---
 
-Teddy G. Goetz (he/him or they/them) is a fourth-year medical student at Columbia University, College of Physicians and Surgeons and Co-Director of Research for the Medical Student Pride Alliance, the first national LGBTQ medical student organization. Previously, he studied biochemistry and gender studies at Yale, conducting research on a wide spectrum of biologically- and socially-determined aspects of gender-based health disparities, including earning his M.S. developing the first animal model of transgender hormone therapy. His interests include psychiatry, LGBTQ health, women’s health, narrative medicine, and physician advocacy. Outside of the hospital, he can be found writing poetry, taking pictures, on long runs/bike rides/hikes, listening to podcasts, and hosting potlucks.
+Teddy G. Goetz (he/him or they/them) is a psychiatry resident at the University of Pennsylvania. Prior to earning his M.D. at Columbia, he studied biochemistry and gender studies at Yale, conducting research on a wide spectrum of biologically- and socially-determined aspects of gender-based health disparities, including earning his M.S. developing the first animal model of gender-affirming hormone therapy. His current focuses include mixed-methods research on LGBTQ mental health, as well as narrative medicine and physician advocacy. Outside of the hospital, he can be found writing poetry, taking pictures, lifting heavy things, listening to podcasts, and hosting potlucks.
