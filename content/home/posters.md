@@ -29,26 +29,7 @@ date_format = "Jan 2006"
   date_start = "2021-04-01"
   date_end = ""
   description = ""
-  
-[[item]]
-  organization = "19th International and Interdisciplinary Conference On Communication, Medicine And Ethics (COMET), Como, Italy"
-  organization_url = ""
-  title = "Self(ie)-Recognition: Authenticity, Passing, and Trans Embodied Imaginaries"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-07-01"
-  date_end = ""
-  description = ""  
-  
-[[item]]
-  organization = "19th International and Interdisciplinary Conference On Communication, Medicine And Ethics (COMET), Como, Italy"
-  organization_url = ""
-  title = "Swapping Gender is a Snap(chat): Limitations of (Trans) Gendered Legibility Within Binary Digital and Human Filters"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-07-01"
-  date_end = ""
-  description = ""  
+
 
 [[item]]
   organization = " Student Research Day, Columbia University, College of Physicians and Surgeons, New York, NY"
