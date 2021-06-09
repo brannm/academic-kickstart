@@ -68,7 +68,8 @@ subtitle = "To inquire about hiring for photography services, please [email](ted
     * Columbia University, Department of Narrative Medicine
 
 ## Selected Published Photography:
-1. Risen. Harmony Magazine, University of Arizona Medical School. 2021. [In press]
+1. Framed Photographs. In: Trans Bodies, Trans Selves. 2021. [In press]
+1. Risen. Harmony Magazine, University of Arizona Medical School. 2021. 
 1. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. 
 2. [Irish Proverb](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
 3. [Meditation in Motion](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
