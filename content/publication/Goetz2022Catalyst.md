@@ -1,9 +1,9 @@
 ---
-title: "Swapping Gender is a Snap(chat): Limitations of (Trans) Gendered Legibility Within Binary Digital and Human Filters."
+title: "Swapping Gender is a Snap(chat): Limitations of (Trans) Gendered Legibility Within Binary Digital and Human Filters. [accepted]"
 authors:
 - Teddy G Goetz
 
-date: "2022-04-01"
+date: "2021-06-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
