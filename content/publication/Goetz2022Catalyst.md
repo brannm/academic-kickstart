@@ -3,7 +3,7 @@ title: "Swapping Gender is a Snap(chat): Limitations of (Trans) Gendered Legibil
 authors:
 - Teddy G Goetz
 
-date: "accepted"
+date: "2022-04-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
