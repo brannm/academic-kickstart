@@ -54,9 +54,10 @@ subtitle = ""
 
 ## Oral Presentations
 
-1.	Fornstein M, Rhodes A, Embry T, **Goetz TG**, Abrams M. LGBTQ+ Medical Students and Applying to Psychiatry Residency. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
+1. **Goetz TG**, Buch SY, Mulkey N. Sanctioned Gender: The medically unique case of referral letters for gender-affirming care. Transgender Professional Association for Transgender Health (TPATH) International Meeting. Virtual. August 2021.
+1. Coffman J, Castle E, **Goetz TG**, Blasdel G. We Don't Fit: Evidence-Based Advocacy on BMI as a Barrier to Gender-Affirming Surgery. Transgender Professional Association for Transgender Health (TPATH) International Meeting. Virtual, August 2021.
+2. Fornstein M, Rhodes A, Embry T, **Goetz TG**, Abrams M. LGBTQ+ Medical Students and Applying to Psychiatry Residency. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
 2.	Balsalmo D, Bahekar P, **Goetz TG**, Stevenson J, Drescher J. Sex and Paperwork: The Ethics of Identification Documents that Misidentify One’s Sex and Gender. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
-3.	Wickersham M, Zhou C, Breheney R, **Goetz TG**, Spellum J, Zonana J. Providing Equitable Healthcare to Marginalized Groups Via Student-Run Mental Health Clinics: Approaches, Advantages and Challenges during COVID-19. American Psychiatric Association Meeting. Los Angeles, CA. May 2021
 4.	**Goetz TG**, Kidd J, Bockting W. Prescription drug misuse in transgender individuals: Association with non-binary identity and minority stress. American Public Health Association Conference. San Francisco, CA. October 2020.
 5.	**Goetz TG**, Marr M, Larossie N. Network for Change: Research, Advocacy, and Community-Building with the Medical Student Pride Alliance. LGBT Health Workforce Conference. New York, NY. June 2020.
 6.	**Goetz TG**. Faculty Outness Promotes a Sexual and Gender Minority Diversity Pipeline. Women in Medicine Conference. Puget Sound, WA. May 2020. *Cancelled due to COVID-19
