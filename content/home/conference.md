@@ -74,8 +74,6 @@ subtitle = ""
 17.	**Goetz LG**, Valeggia CR. Prevalencia De Anemia En Mujeres Qom De Un Barrio Peri-Urbano De Formosa. Jornadas Nacionales de Antropología Biológica. Corrientes, Argentina. Sep. 2015.
 
 ## Poster Presentations
-1.	**Goetz TG**, Devlin M. Self(ie)-Recognition: Authenticity, Passing, and Trans Embodied Imaginaries. 19th International and Interdisciplinary Conference On Communication, Medicine And Ethics (COMET). Como, Italy. July 2021. 
-2.	**Goetz TG**, Devlin M. Swapping Gender is a Snap(chat): Limitations of (Trans) Gendered Legibility Within Binary Digital and Human Filters. 19th International and Interdisciplinary Conference On Communication, Medicine And Ethics (COMET). Como, Italy. July 2021. 
 3.	**Goetz TG**, Devlin M. Terminal Transition: An Ethnographic Exploration of (In)Finite Gender Journeys. Student Research Day, Columbia University, College of Physicians and Surgeons, New York, NY. Mar. 2021.
 4.	**Goetz TG**, Arcomano AC, Devlin MJ. “Coming Home to My Body”: An Ethnographic Exploration of How Medical and Surgical Gender-Affirming Care-Seeking Impacts Mental Health. LGBT Health Workforce Conference. New York, NY. Apr. 2021.
 5.	**Goetz TG**, Arcomano AC, Devlin MJ. “X” Marks The Transgressive Gender: An Ethnographic Exploration of Legal Gender Affirmation. LGBT Health Workforce Conference. New York, NY. Apr. 2021.
