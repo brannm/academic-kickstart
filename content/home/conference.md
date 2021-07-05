@@ -55,9 +55,8 @@ subtitle = ""
 ## Oral Presentations
 
 1. **Goetz TG**. Terminal Transition: An Ethnographic Exploration of (In)finite Gender Journeys. American Public Health Association Conference. Virtual. Oct. 2021.
-1. **Goetz TG**, Arcomano AC, Devlin MJ. “Coming Home to My Body”: An Ethnographic Exploration of How Medical and Surgical Gender-Affirming Care-Seeking Impacts Mental Health. GLMA Annual Conference on LGBTQ Health. Virtual. Sep. 2021.
+1. **Goetz TG**, Arcomano AC, Devlin MJ. “Coming Home to My Body”: An Ethnographic Exploration of How Medical and Surgical Gender-Affirming Care-Seeking Impacts Mental Health. GLMA Annual Conference on LGBTQ Health. Denver, CO. Sep. 2021.
 1. **Goetz TG**, Buch SY, Mulkey N. Sanctioned Gender: The medically unique case of referral letters for gender-affirming care. Transgender Professional Association for Transgender Health (TPATH) International Meeting. Virtual. August 2021.
-1. Coffman J, Castle E, **Goetz TG**, Blasdel G. We Don't Fit: Evidence-Based Advocacy on BMI as a Barrier to Gender-Affirming Surgery. Transgender Professional Association for Transgender Health (TPATH) International Meeting. Virtual, August 2021.
 2. Fornstein M, Rhodes A, Embry T, **Goetz TG**, Abrams M. LGBTQ+ Medical Students and Applying to Psychiatry Residency. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
 2.	Balsalmo D, Bahekar P, **Goetz TG**, Stevenson J, Drescher J. Sex and Paperwork: The Ethics of Identification Documents that Misidentify One’s Sex and Gender. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
 4.	**Goetz TG**, Kidd J, Bockting W. Prescription drug misuse in transgender individuals: Association with non-binary identity and minority stress. American Public Health Association Conference. San Francisco, CA. October 2020.
@@ -76,7 +75,8 @@ subtitle = ""
 17.	**Goetz LG**, Valeggia CR. Prevalencia De Anemia En Mujeres Qom De Un Barrio Peri-Urbano De Formosa. Jornadas Nacionales de Antropología Biológica. Corrientes, Argentina. Sep. 2015.
 
 ## Poster Presentations
-1.	**Goetz TG**, Devlin M. Terminal Transition: An Ethnographic Exploration of (In)Finite Gender Journeys. Student Research Day, Columbia University, College of Physicians and Surgeons, New York, NY. Mar. 2021.
+1.	Coffman J, Castle E, **Goetz TG**, Blasdel G. We Don't Fit: Evidence-Based Advocacy on BMI as a Barrier to Gender-Affirming Surgery. Transgender Professional Association for Transgender Health (TPATH) International Meeting. Virtual, August 2021.
+2. **Goetz TG**, Devlin M. Terminal Transition: An Ethnographic Exploration of (In)Finite Gender Journeys. Student Research Day, Columbia University, College of Physicians and Surgeons, New York, NY. Mar. 2021.
 4.	**Goetz TG**, Arcomano AC, Devlin MJ. “Coming Home to My Body”: An Ethnographic Exploration of How Medical and Surgical Gender-Affirming Care-Seeking Impacts Mental Health. LGBT Health Workforce Conference. New York, NY. Apr. 2021.
 5.	**Goetz TG**, Arcomano AC, Devlin MJ. “X” Marks The Transgressive Gender: An Ethnographic Exploration of Legal Gender Affirmation. LGBT Health Workforce Conference. New York, NY. Apr. 2021.
 6.	**Goetz TG**, Cutler J. The Patients Beneath White Coats: An Exploration of Medical Student Professional Identity Formation. American Psychiatric Association Meeting. Los Angeles, CA. May 2021. 
