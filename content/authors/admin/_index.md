@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: Post-Graduate Training: Resident Physician
+  - course: Post-Graduate Training, Resident Physician
     institution: University of Pennsylvania, Department of Psychiatry
     year: 2025 (expected)
   - course: MD
