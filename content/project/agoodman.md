@@ -5,7 +5,6 @@ tags:
 - Trans Health
 - Psychiatry
 - LGBTQ
-- Psychiatry
 - Narrative Medicine
 
 
