@@ -29,7 +29,7 @@ interests:
 - Physician advocacy
 - Science, Technology, and Society Studies
 
-Post-Graduate Training:
+work:
   courses:
   - course: Resident Physician
     institution: University of Pennsylvania, Department of Psychiatry
