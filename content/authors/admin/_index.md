@@ -29,14 +29,11 @@ interests:
 - Physician advocacy
 - Science, Technology, and Society Studies
 
-work:
-  courses:
-  - course: Resident Physician
-    institution: University of Pennsylvania, Department of Psychiatry
-    year: 2025 (expected)
-
 education:
   courses:
+  - course: Post-Graduate Training: Resident Physician
+    institution: University of Pennsylvania, Department of Psychiatry
+    year: 2025 (expected)
   - course: MD
     institution: Columbia University, Vagelos College of Physicians and Surgeons
     year: 2021 
