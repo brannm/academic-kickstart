@@ -2,7 +2,7 @@
 title: "The World Health Organization's Essential Diagnostics List: Diagnostics for neurologic disorders"
 authors:
 - Greer Waldrop
-- Laura G. Goetz
+- Teddy G. Goetz
 - Omar K. Siddiqi
 - Igor J. Koralnik
 - Hiral Shah
