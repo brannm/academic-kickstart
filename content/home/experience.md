@@ -18,6 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Utility and drawbacks of animal models of gender-affirming hormone therapy"
+  company = "Corin Humphrey Memorial Journal Club (international)"
+  company_url = ""
+  location = ""
+  date_start = "2021-09-15"
+  date_end = "2021-09-15"
+  description = """Presentation to trans health researchers discussing my master's thesis work on murine models of gender-affirming hormone therapy""""
+
+[[experience]]
+  title = "Case Conference: Perinatal Psychosis"
+  company = "University of Pennsylvania, Department of Psychiatry"
+  company_url = ""
+  location = ""
+  date_start = "2021-08-12"
+  date_end = "2021-08-12"
+  description = """Pan-residency case presentation about a patient with bipolar disorder who presented with somatic, grandiose, and paranoid delusions during pregnancy. Faculty discussant: Dr. Margaret Spinelli (Columbia) """
+
+
+[[experience]]
   title = "Psychiatric Medicine: Online Content Generation"
   company = "COVID-19 Student Service Corps, Columbia University, VP&S"
   company_url = ""
