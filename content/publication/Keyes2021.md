@@ -1,5 +1,5 @@
 ---
-title: "Sexual and Gender Minority Identity Disclosure from Undergraduate to Graduate Medical Education: Perceptions of Professional “Outness” Among Medical Students. [in press]"
+title: "Sexual and Gender Minority Identity Disclosure from Undergraduate to Graduate Medical Education: Perceptions of Professional “Outness” Among Medical Students. [accepted]"
 authors:
 - Timothy J Keyes
 - Shana Zucker 
@@ -11,7 +11,7 @@ authors:
 
 
 
-date: ""
+date: "07-07-2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
