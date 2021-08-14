@@ -1,5 +1,5 @@
 ---
-title: "Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ+) Health Education in Primary Care Graduate Medical Education Programs: A National Survey of Program Directors"
+title: "Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ+) Health Education in Primary Care Graduate Medical Education Programs: A National Survey of Program Directors. [in press]"
 authors:
 - Samuel R Bunting
 - Teddy G Goetz
@@ -10,7 +10,7 @@ authors:
 
 
 
-date: "[in press]"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
