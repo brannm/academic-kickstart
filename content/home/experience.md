@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2021-09-15"
   date_end = "2021-09-15"
-  description = """Presentation to trans health researchers discussing my master's thesis work on murine models of gender-affirming hormone therapy""""
+  description = """Presentation to trans health researchers discussing my master's thesis work on murine models of gender-affirming hormone therapy
+"""
 
 [[experience]]
   title = "Case Conference: Perinatal Psychosis"
@@ -33,7 +34,8 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2021-08-12"
   date_end = "2021-08-12"
-  description = """Pan-residency case presentation about a patient with bipolar disorder who presented with somatic, grandiose, and paranoid delusions during pregnancy. Faculty discussant: Dr. Margaret Spinelli (Columbia) """
+  description = """Pan-residency case presentation about a patient with bipolar disorder who presented with somatic, grandiose, and paranoid delusions during pregnancy. Faculty discussant: Dr. Margaret Spinelli (Columbia)
+"""
 
 
 [[experience]]
@@ -53,7 +55,8 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-03-01"
   date_end = "2020-05-31"
-  description = """Teaching the psychiatric interview, differential diagnosis skills, and playing a standardized patient in first-year medical student Psychiatric Medicine small groups"""
+  description = """Teaching the psychiatric interview, differential diagnosis skills, and playing a standardized patient in first-year medical student Psychiatric Medicine small groups
+"""
   
   [[experience]]
   title = "Foundations of Clinical Medicine Senior Student Seminar Group Leader"
@@ -62,7 +65,8 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-01-01"
   date_end = "2020-02-28"
-  description = """Monthly co-facilitation of discussions of clinical year students about humanism in medicine"""
+  description = """Monthly co-facilitation of discussions of clinical year students about humanism in medicine
+  """
   
   [[experience]]
   title = "Tutor: Histology and Pathology, The Body in Health and Disease, Clinical Clerkships; Lecturer: Infectious Diseases"
