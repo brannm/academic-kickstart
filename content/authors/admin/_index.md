@@ -22,10 +22,11 @@ bio:
 
 interests:
 - Psychiatry
+- Trans health
 - LGBTQ health
-- Women’s health
-- Medical education
+- Women's health 
 - Narrative medicine
+- Medical education
 - Physician advocacy
 - Science, Technology, and Society Studies
 
