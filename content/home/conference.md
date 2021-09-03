@@ -54,25 +54,27 @@ subtitle = ""
 
 ## Oral Presentations
 
-1. **Goetz TG**. Terminal Transition: An Ethnographic Exploration of (In)finite Gender Journeys. American Public Health Association Conference. Virtual. Oct. 2021.
-1. **Goetz TG**, Arcomano AC, Devlin MJ. “Coming Home to My Body”: An Ethnographic Exploration of How Medical and Surgical Gender-Affirming Care-Seeking Impacts Mental Health. GLMA Annual Conference on LGBTQ Health. Denver, CO. Sep. 2021.
-1. **Goetz TG**, Buch SY, Mulkey N. Sanctioned Gender: The medically unique case of referral letters for gender-affirming care. Transgender Professional Association for Transgender Health (TPATH) International Meeting. Virtual. August 2021.
-2. Fornstein M, Rhodes A, Embry T, **Goetz TG**, Abrams M. LGBTQ+ Medical Students and Applying to Psychiatry Residency. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
-2.	Balsalmo D, Bahekar P, **Goetz TG**, Stevenson J, Drescher J. Sex and Paperwork: The Ethics of Identification Documents that Misidentify One’s Sex and Gender. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
-4.	**Goetz TG**, Kidd J, Bockting W. Prescription drug misuse in transgender individuals: Association with non-binary identity and minority stress. American Public Health Association Conference. San Francisco, CA. October 2020.
-5.	**Goetz TG**, Marr M, Larossie N. Network for Change: Research, Advocacy, and Community-Building with the Medical Student Pride Alliance. LGBT Health Workforce Conference. New York, NY. June 2020.
-6.	**Goetz TG**. Faculty Outness Promotes a Sexual and Gender Minority Diversity Pipeline. Women in Medicine Conference. Puget Sound, WA. May 2020. *Cancelled due to COVID-19
-7.	**Goetz TG**, Kamceva M. Supporting LGBTQ Medical Trainees: Reflections on Research and Advocacy with the Medical Student Pride Alliance. Women in Medicine Conference. Puget Sound, WA. May 2020. *Cancelled due to COVID-19			
-8.	**Goetz TG**, Nieman CL, Chaiet S, Morrison SD, Cabrera-Muffly C, Lustig LR. Sexual and Gender Minority Diversity and Curriculum within Otolaryngology Residency: A National Survey of Program Directors. Triological Society 123rd Annual Meeting at COSM. Atlanta, GA. April 2020. *Cancelled due to COVID-19
-9.	**Goetz LG**. Making a Face: Integrated Counseling and Surgical Workshop in Facial Reconstructive Surgery. Women in Medicine Conference. Philadelphia, PA. Aug. 2019.
-10.	Zucker S, **Goetz LG**, Kamceva M. Sexual and Gender Minority (SGM) Affinity Groups at U.S. Medical Schools: A Needs-Assessment Towards A National Medical Student Forum. Women in Medicine Conference. Philadelphia, PA. Aug. 2019.
-11.	Keyes T, **Goetz LG**, Zucker S, Carlsen T. Student Led LGBT Health Initiatives. LGBT Health Workforce Conference. New York, NY. May 2019.
-12.	Carpino T, **Goetz LG**. Climate of LGBTQ+ Inclusion at a Health Professions Campus. LGBT Health Workforce Conference. New York, NY. May 2019.
-13.	**Goetz LG**. Addition of estradiol to testosterone therapy and implications for treating transgender youth in mice. Invited speaker for mini-symposium “Setting the research agenda for transgender medicine in 2018,” Society for Reproductive Investigation Meeting. San Diego, CA. Mar. 2018.
-14.	**Goetz LG**, Mamillapalli R, Devlin MJ, Majidi-Zolbin M, Taylor HS, editors. Cross-Sex Testosterone Therapy Is Not Sufficient for Bone Development in Female Mice: Implications for Treating Transgender Youth. Society for Reproductive Investigation Meeting. Orlando, FL. Mar. 2017.
-15.	**Goetz LG**, Ilagan Y, Mamillapalli R, Taylor HS, editors. Hepatic Metabolic Gene Dysregulation in a Mouse Model of Endometriosis. Society for Reproductive Investigation Meeting. Montreal, Canada. Mar. 2016.
-16.	Trumpler M, Dowe A, Wallace S, **Goetz LG**. Sexual Harassment and Sexual Assault Reported by Trans and Genderqueer Students: The 2015 AAU Sexual Climate Survey. The National LGBTQ Task Force Creating Change Conference. Chicago, IL. Jan. 2016.
-17.	**Goetz LG**, Valeggia CR. Prevalencia De Anemia En Mujeres Qom De Un Barrio Peri-Urbano De Formosa. Jornadas Nacionales de Antropología Biológica. Corrientes, Argentina. Sep. 2015.
+1. **Goetz TG**. Terminal Transition: An Ethnographic Exploration of (In)finite Gender Journeys. US Professional Association for Transgender Health Conference. Virtual. Nov. 2021.
+2. **Goetz TG**, Arcomano AC, Devlin MJ. “X” Marks The Transgressive Gender: An Ethnographic Exploration of Legal Gender Affirmation. US Professional Association for Transgender Health Conference. Virtual. Nov. 2021.
+3. **Goetz TG**. Terminal Transition: An Ethnographic Exploration of (In)finite Gender Journeys. American Public Health Association Conference. Virtual. Oct. 2021.
+4. **Goetz TG**, Arcomano AC, Devlin MJ. “Coming Home to My Body”: An Ethnographic Exploration of How Medical and Surgical Gender-Affirming Care-Seeking Impacts Mental Health. GLMA Annual Conference on LGBTQ Health. Denver, CO. Sep. 2021.
+5. **Goetz TG**, Buch SY, Mulkey N. Sanctioned Gender: The medically unique case of referral letters for gender-affirming care. Transgender Professional Association for Transgender Health (TPATH) International Meeting. Virtual. August 2021.
+6. Fornstein M, Rhodes A, Embry T, **Goetz TG**, Abrams M. LGBTQ+ Medical Students and Applying to Psychiatry Residency. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
+7. Balsalmo D, Bahekar P, **Goetz TG**, Stevenson J, Drescher J. Sex and Paperwork: The Ethics of Identification Documents that Misidentify One’s Sex and Gender. American Psychiatric Association Meeting. Los Angeles, CA. May 2021.
+8. **Goetz TG**, Kidd J, Bockting W. Prescription drug misuse in transgender individuals: Association with non-binary identity and minority stress. American Public Health Association Conference. San Francisco, CA. October 2020.
+9. **Goetz TG**, Marr M, Larossie N. Network for Change: Research, Advocacy, and Community-Building with the Medical Student Pride Alliance. LGBT Health Workforce Conference. New York, NY. June 2020.
+10. **Goetz TG**. Faculty Outness Promotes a Sexual and Gender Minority Diversity Pipeline. Women in Medicine Conference. Puget Sound, WA. May 2020. *Cancelled due to COVID-19
+11. **Goetz TG**, Kamceva M. Supporting LGBTQ Medical Trainees: Reflections on Research and Advocacy with the Medical Student Pride Alliance. Women in Medicine Conference. Puget Sound, WA. May 2020. *Cancelled due to COVID-19			
+12. **Goetz TG**, Nieman CL, Chaiet S, Morrison SD, Cabrera-Muffly C, Lustig LR. Sexual and Gender Minority Diversity and Curriculum within Otolaryngology Residency: A National Survey of Program Directors. Triological Society 123rd Annual Meeting at COSM. Atlanta, GA. April 2020. *Cancelled due to COVID-19
+13. **Goetz LG**. Making a Face: Integrated Counseling and Surgical Workshop in Facial Reconstructive Surgery. Women in Medicine Conference. Philadelphia, PA. Aug. 2019.
+14. Zucker S, **Goetz LG**, Kamceva M. Sexual and Gender Minority (SGM) Affinity Groups at U.S. Medical Schools: A Needs-Assessment Towards A National Medical Student Forum. Women in Medicine Conference. Philadelphia, PA. Aug. 2019.
+15. Keyes T, **Goetz LG**, Zucker S, Carlsen T. Student Led LGBT Health Initiatives. LGBT Health Workforce Conference. New York, NY. May 2019.
+16. Carpino T, **Goetz LG**. Climate of LGBTQ+ Inclusion at a Health Professions Campus. LGBT Health Workforce Conference. New York, NY. May 2019.
+17. **Goetz LG**. Addition of estradiol to testosterone therapy and implications for treating transgender youth in mice. Invited speaker for mini-symposium “Setting the research agenda for transgender medicine in 2018,” Society for Reproductive Investigation Meeting. San Diego, CA. Mar. 2018.
+18. **Goetz LG**, Mamillapalli R, Devlin MJ, Majidi-Zolbin M, Taylor HS, editors. Cross-Sex Testosterone Therapy Is Not Sufficient for Bone Development in Female Mice: Implications for Treating Transgender Youth. Society for Reproductive Investigation Meeting. Orlando, FL. Mar. 2017.
+19. **Goetz LG**, Ilagan Y, Mamillapalli R, Taylor HS, editors. Hepatic Metabolic Gene Dysregulation in a Mouse Model of Endometriosis. Society for Reproductive Investigation Meeting. Montreal, Canada. Mar. 2016.
+20. Trumpler M, Dowe A, Wallace S, **Goetz LG**. Sexual Harassment and Sexual Assault Reported by Trans and Genderqueer Students: The 2015 AAU Sexual Climate Survey. The National LGBTQ Task Force Creating Change Conference. Chicago, IL. Jan. 2016.
+21. **Goetz LG**, Valeggia CR. Prevalencia De Anemia En Mujeres Qom De Un Barrio Peri-Urbano De Formosa. Jornadas Nacionales de Antropología Biológica. Corrientes, Argentina. Sep. 2015.
 
 ## Poster Presentations
 1.	Coffman J, Castle E, **Goetz TG**, Blasdel G. We Don't Fit: Evidence-Based Advocacy on BMI as a Barrier to Gender-Affirming Surgery. Transgender Professional Association for Transgender Health (TPATH) International Meeting. Virtual, August 2021.
