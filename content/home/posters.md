@@ -192,4 +192,15 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Transgender Professional Association for Transgender Health (TPATH) International Meeting"
+  organization_url = ""
+  title = "We Don't Fit: Evidence-Based Advocacy on BMI as a Barrier to Gender-Affirming Surgery"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-08-01"
+  date_end = ""
+  description = "" 
+
+
 +++

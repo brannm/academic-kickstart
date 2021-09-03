@@ -188,13 +188,22 @@ date_format = "Jan 2006"
   date_end = ""
   description = "" 
 
+
 [[item]]
-  organization = "Transgender Professional Association for Transgender Health (TPATH) International Meeting"
+  organization = "US Professional Association for Transgender Health (USPATH) National Meeting"
   organization_url = ""
-  title = "We Don't Fit: Evidence-Based Advocacy on BMI as a Barrier to Gender-Affirming Surgery"
-  url = ""
+  title = "Terminal Transition: An Ethnographic Exploration of (In)finite Gender Journeys"
   certificate_url = ""
-  date_start = "2021-08-01"
+  date_start = "2021-11-04"
+  date_end = ""
+  description = "" 
+
+[[item]]
+  organization = "US Professional Association for Transgender Health (USPATH) National Meeting"
+  organization_url = ""
+  title = "“X” Marks The Transgressive Gender: An Ethnographic Exploration of Legal Gender Affirmation"
+  certificate_url = ""
+  date_start = "2021-11-03"
   date_end = ""
   description = "" 
 
