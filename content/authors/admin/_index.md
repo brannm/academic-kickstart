@@ -83,3 +83,4 @@ user_groups:
 ---
 
 Teddy G. Goetz (they/them or he/him) is a psychiatry resident at the University of Pennsylvania. Prior to earning their M.D. at Columbia, they studied biochemistry and gender studies at Yale, conducting research on a wide spectrum of biologically- and socially-determined aspects of gender-based health disparities, including earning their M.S. developing the first animal model of gender-affirming hormone therapy. Their current focuses include mixed-methods research on LGBTQ mental health, as well as narrative medicine and physician advocacy. Outside of the hospital, they can be found writing, taking pictures, lifting heavy things, listening to podcasts, and hosting potlucks.
+
