@@ -31,7 +31,7 @@ tags:
 - Psychiatry
 - Narrative medicine
 
-featured: true
+featured: false
 
 #links:
 #- name: "Link"
