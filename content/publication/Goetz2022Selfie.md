@@ -35,7 +35,7 @@ featured: false
 #links:
 #- name: "Link"
 # url: 
-url_pdf: "https://catalystjournal.org/index.php/catalyst/article/view/34839/28578"
+# url_pdf: "XXXXXXXXXXXXXXX"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
