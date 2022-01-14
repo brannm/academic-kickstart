@@ -1,5 +1,5 @@
 ---
-title: "“X” Marks The Transgressive Gender: A Qualitative Exploration of Legal Gender Affirmation."
+title: "'X' Marks The Transgressive Gender: A Qualitative Exploration of Legal Gender Affirmation."
 authors:
 - Teddy G Goetz
 - Amanda C Arcomano
