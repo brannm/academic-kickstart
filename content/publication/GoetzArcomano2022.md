@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "Journal of Gay & Lesbian Mental Health"
 publication_short: ""
 
-abstract:
+abstract: "Purpose: Gender affirmation for transgender, non-binary, and/or gender diverse (“trans”) persons can include legal name and/or gender marker changes. Gender marker choice has become more complex with increasing availability of a gender-neutral “X” marker. Yet, little research has characterized trans persons’ perspectives on legal gender affirmation, and its mental health impacts. Methods: Here we present qualitative research exploring trans individuals’ goals for and barriers from seeking gender-affirming legal care and perspectives on the “X” gender marker. We conducted one-hour semi-structured interviews with 54 trans persons in the U.S. and Canada. Results: Almost all participants were interested in legal name(had: 54%, want: 33%) and gender marker (had: 46%, want:46%) changes. Most common barriers included: logistics, fearing violence/discrimination, cost, and legality; 24% reported only updating some identification documents. While some sought an “X” gender marker (had: 11%, want: 19%), 32% considered the “X” harmful, fearing lack of compatibility with other documents and increasing risk of gender-based violence/discrimination. Most reported anxiety and isolation from concerns over mismatched or inaccurate identification documents. Conclusions: This work offers insight into how legal gender affirmation influences mental health for trans persons, highlighting the importance of mental health providers exploring legal gender affirmation when treating members of the trans community."
 
 # Summary. An optional shortened abstract.
 summary:
