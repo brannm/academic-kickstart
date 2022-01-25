@@ -57,23 +57,26 @@ subtitle = "To inquire about hiring for photography services, please [email](ted
 
 ##### Headshots
 * Freelance; for business and theatrical use (06/2017-Present)
-* Bard Hall Players Theater Ensemble (02/2018-05/2021)
+* Broadway Haven Players Theater Ensemble (02/2018-05/2021)
 ##### Events
 * Columbia University, Vagelos College of Physicians and Surgeons (01/2019-05/2021)
 ##### Performances 
-* Bard Hall Players Theater Ensemble (02/2018-05/2021)
+* Broadway Haven Players Theater Ensemble (02/2018-05/2021)
 
 ## Selected Photography Art Exhibitions and Showcases:
 * Arts and Humanities StudioLab Showcase (01/28/2020)
     * Columbia University, Department of Narrative Medicine
 
 ## Selected Published Photography:
-1. Framed Photographs. In: Trans Bodies, Trans Selves. 2021. [In press]
-1. Risen. Harmony Magazine, University of Arizona Medical School. 2021. 
-1. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. 
-2. [Irish Proverb](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
-3. [Meditation in Motion](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
-4. [Photophobia](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
-5. [Travel Log](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
-6. Diffraction. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018. 
+1. Cannot Be Contained. Harmony Magazine, University of Arizona Medical School. 2022.  [Accepted]
+2. Pluripotent. Harmony Magazine, University of Arizona Medical School. 2022.  [Accepted]
+3. Unapologetic. Harmony Magazine, University of Arizona Medical School. 2022. [Accepted]
+4. Framed Photographs. In: Trans Bodies, Trans Selves. 2021. [In press]
+5. Risen. Harmony Magazine, University of Arizona Medical School. 2021. 
+6. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. 
+7. [Irish Proverb](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+8. [Meditation in Motion](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+9. [Photophobia](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
+10. [Travel Log](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
+11. Diffraction. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018. 
 
