@@ -53,49 +53,50 @@ subtitle = ""
 
 ## Selected Poetry:
 
-1. [Short Call](https://www.theintima.org/short-call-teddy-goetz). The Intima: A Journal of Narrative Medicine. Spring 2021.
-2. [Community](https://www.consilience-journal.com/issue-4-community). Consilience Journal. Issue 4. 2021. 
-3. [Make a Wish](https://sheilanagigblog.com/the-poets-volume-5-3-spring-2021/teddy-g-goetz/). Sheila-Na-Gig Journal. Volume 5.2. 2021.  
-4. [After the Beep](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
-5. [I-80E](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
-6. [The Year of the Nightmare](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
-7. [Forsaken](https://hoxiegorgereview.com/teddy-g-goetz/). Hoxie Gorge Review. 
-8.  [Fermentation](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
-9.  [Forsaken](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
-10.  [Revelation (6)](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
-11.	[For Hollis (Reprise)](https://dotspublications.com/products/lamp-volume-1-test-run?variant=35840795934885). In: LAMP Anthology Volume 1. Dots Publications Press. 
-12.  [Girl Code](http://www.damagedgoodspress.com/product/the-impossible-beast-queer-erotic-poems/). In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. 
-13.  [Green Thumb](https://www.upstate.edu/bioethics/thehealingmuse/excerpts/excerpts-muse19.php). The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. 
-14.	[Keyhole](https://www.beyondwordsmag.com/online-store/Beyoznd-Queer-Words-A-Collection-of-Poems-p218768615). Beyond Words Literary Magazine. 2020. 
-15.  [My White Coat](https://www.pique-magazine.com/2020-09-24-my-white-coat). Pique Magazine. Issue 1. 2020. 
-16.  [Girl Code](http://www.freezeraypoetry.com/teddy-g-goetz.html). Freeze Ray Poetry. Vol. 18. 2020.
-17.  [Goliath](https://www.openmindsquarterly.com/product/summer-2020-queer-stories-pdf/). Open Minds Quarterly. Summer 2020.
-18.	[Double Helix](https://sites.dartmouth.edu/lifelines/volume-10/). Lifelines Magazine, Dartmouth Medical School. 2020.
-19.	[Contracted](https://sites.dartmouth.edu/lifelines/volume-10/). Lifelines Magazine, Dartmouth Medical School. 2020. 
-20.	[White(coat) Noise](http://www.themspress.org/journal/index.php/journal/issue/view/33). The Medical Student Press Journal. 2020. 
-21.	[A Great Big World](https://link.springer.com/article/10.1007%2Fs10912-020-09616-8). Journal of the Medical Humanities. 2020. 
-22.	Pieces. Tendon Magazine, Johns Hopkins University Center for Medical Humanities & Social Medicine. Spring 2020. 
-23.	7 West. Harmony Magazine, University of Arizona Medical School. 2020. 
-24.	Caterpillar. Harmony Magazine, University of Arizona Medical School. 2020. 
-25.	[CFTR](http://www.theintima.org/poetry-a-f). The Intima: A Journal of Narrative Medicine. Fall 2019. 
-26.	[Monsoon Season](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
-27.	[Seedling](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
-28.	[64th Street](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
-29.	[Daylight Savings Time](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
-30.	[Extra Heart Sounds](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
-31.	[Mixed Signals](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
-32.	[Xanthopsia](https://static1.squarespace.com/static/598cb679db29d6413909bc23/t/5dbd27e2c7aa2f31f1cc618a/1572677624808/Iss04-Psych.pdf). Wards Literary Magazine. Issue 04. 2019. 
-33.	Karpas. Ponder Review. Vol. 3, Issue 2. 2019. 
-34.	[Bastante](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
-35.	[Mind the Gap](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
-36.	Granddaughter Gould. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2019. 
-37.	[Cerros](http://www.theintima.org/poetry-a-f). The Intima: A Journal of Narrative Medicine. Spring 2019. 
-38.	Inside Out. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018.
-39.	Formosa Hermosa. La Madrugada Magazine. 2015. 
-40.	Amistad y nada más. Vitality LGBTQ Magazine. 2015. 
-41.	Seen at 11:21 pm. Vitality LGBTQ Magazine. 2015. 
-42.	Capítulos no vistos. La Madrugada Magazine. 2014. 
-43.	Letter To My Future Daughter. Fatale. 2013.
+1. T-Section. Beyond Queer Words. July 2022. [Accepted]
+2. [Short Call](https://www.theintima.org/short-call-teddy-goetz). The Intima: A Journal of Narrative Medicine. Spring 2021.
+3. [Community](https://www.consilience-journal.com/issue-4-community). Consilience Journal. Issue 4. 2021. 
+4. [Make a Wish](https://sheilanagigblog.com/the-poets-volume-5-3-spring-2021/teddy-g-goetz/). Sheila-Na-Gig Journal. Volume 5.2. 2021.  
+5. [After the Beep](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
+6. [I-80E](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
+7. [The Year of the Nightmare](https://www.stonecoastreview.org/issues/). Stonecoast Review. Issue 14. 2021. 
+8. [Forsaken](https://hoxiegorgereview.com/teddy-g-goetz/). Hoxie Gorge Review. 
+9. [Fermentation](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
+10. [Forsaken](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
+11. [Revelation (6)](https://74677df8-6591-4b11-908e-a5529d11f78b.filesusr.com/ugd/ee4c72_7ef8302cd5d24298b529b6769160bb73.pdf). CircleShow. Fall 2020. 
+12. [For Hollis (Reprise)](https://dotspublications.com/products/lamp-volume-1-test-run?variant=35840795934885). In: LAMP Anthology Volume 1. Dots Publications Press. 
+13. [Girl Code](http://www.damagedgoodspress.com/product/the-impossible-beast-queer-erotic-poems/). In: The Impossible Beast: Queer Erotic Poems Anthology. Damaged Goods Press. 2020. 
+14. [Green Thumb](https://www.upstate.edu/bioethics/thehealingmuse/excerpts/excerpts-muse19.php). The Healing Muse Magazine, SUNY Upstate Medical University Center for Bioethics & Humanities. Vol. 20. 2020. 
+15. [Keyhole](https://www.beyondwordsmag.com/online-store/Beyoznd-Queer-Words-A-Collection-of-Poems-p218768615). Beyond Words Literary Magazine. 2020. 
+16. [My White Coat](https://www.pique-magazine.com/2020-09-24-my-white-coat). Pique Magazine. Issue 1. 2020. 
+17. [Girl Code](http://www.freezeraypoetry.com/teddy-g-goetz.html). Freeze Ray Poetry. Vol. 18. 2020.
+18. [Goliath](https://www.openmindsquarterly.com/product/summer-2020-queer-stories-pdf/). Open Minds Quarterly. Summer 2020.
+19. [Double Helix](https://sites.dartmouth.edu/lifelines/volume-10/). Lifelines Magazine, Dartmouth Medical School. 2020.
+20. [Contracted](https://sites.dartmouth.edu/lifelines/volume-10/). Lifelines Magazine, Dartmouth Medical School. 2020. 
+21. [White(coat) Noise](http://www.themspress.org/journal/index.php/journal/issue/view/33). The Medical Student Press Journal. 2020. 
+22. [A Great Big World](https://link.springer.com/article/10.1007%2Fs10912-020-09616-8). Journal of the Medical Humanities. 2020. 
+23. Pieces. Tendon Magazine, Johns Hopkins University Center for Medical Humanities & Social Medicine. Spring 2020. 
+24. 7 West. Harmony Magazine, University of Arizona Medical School. 2020. 
+25. Caterpillar. Harmony Magazine, University of Arizona Medical School. 2020. 
+26. [CFTR](http://www.theintima.org/poetry-a-f). The Intima: A Journal of Narrative Medicine. Fall 2019. 
+27. [Monsoon Season](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
+28. [Seedling](https://watershed.yourweb.csuchico.edu/poetry/goetz-laura/). Watershed Review, 2019. 
+29. [64th Street](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+30. [Daylight Savings Time](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+31. [Extra Heart Sounds](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+32. [Mixed Signals](https://indd.adobe.com/view/214dc8c2-69ce-41c9-b078-b0d3f858fc74). Heirlock Magazine. Vol. I, Issue II, 2019. 
+33. [Xanthopsia](https://static1.squarespace.com/static/598cb679db29d6413909bc23/t/5dbd27e2c7aa2f31f1cc618a/1572677624808/Iss04-Psych.pdf). Wards Literary Magazine. Issue 04. 2019. 
+34. Karpas. Ponder Review. Vol. 3, Issue 2. 2019. 
+35. [Bastante](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+36. [Mind the Gap](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+37. Granddaughter Gould. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2019. 
+38. [Cerros](http://www.theintima.org/poetry-a-f). The Intima: A Journal of Narrative Medicine. Spring 2019. 
+39. Inside Out. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018.
+40. Formosa Hermosa. La Madrugada Magazine. 2015. 
+41. Amistad y nada más. Vitality LGBTQ Magazine. 2015. 
+42. Seen at 11:21 pm. Vitality LGBTQ Magazine. 2015. 
+43. Capítulos no vistos. La Madrugada Magazine. 2014. 
+44. Letter To My Future Daughter. Fatale. 2013.
 
 
 
