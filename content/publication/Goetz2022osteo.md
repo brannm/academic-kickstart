@@ -1,5 +1,5 @@
 ---
-title: "In premenopausal women with idiopathic osteoporosis, lower bone formation rate is associated with higher body fat and higher IGF1"
+title: "In premenopausal women with idiopathic osteoporosis, lower bone formation rate is associated with higher body fat and higher IGF-1"
 authors:
 - Teddy G. Goetz  
 - N. Nair
@@ -35,7 +35,7 @@ publication_types: ["2"]
 publication: "Osteoporosis International"
 publication_short: ""
 
-abstract: Summary We examined serum IGF-1 in premenopausal IOP, finding relationships that were opposite to those expected:
+abstract: "Summary We examined serum IGF-1 in premenopausal IOP, finding relationships that were opposite to those expected:
 higher IGF-1 was associated with lower bone formation and higher body fat, and lower BMD response to teriparatide. These
 paradoxical relationships between serum IGF-1, bone, and fat may contribute to the mechanism of idiopathic osteoporosis
 in premenopausal women.
@@ -56,7 +56,7 @@ all related to higher IGF-1: IGF-1 Z-score was inversely related to BFR at all b
 directly related to central fat (p = 0.05) and leptin (p = 0.03). IGF-1 inversely related to 24 month hip BMD %change
 (r = − 0.46; p = 0.01).
 Conclusions Paradoxical IGF-1 relationships suggest that abnormal or atypical regulation of bone and fat may contribute to
-osteoporosis mechanisms in premenopausal IOP.
+osteoporosis mechanisms in premenopausal IOP."
 
 # Summary. An optional shortened abstract.
 summary:
