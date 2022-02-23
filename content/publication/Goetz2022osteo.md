@@ -1,5 +1,5 @@
 ---
-title: "In premenopausal women with idiopathic osteoporosis, lower bone formation rate is associated with higher body fat and higher IGF‑1"
+title: "In premenopausal women with idiopathic osteoporosis, lower bone formation rate is associated with higher body fat and higher IGF1"
 authors:
 - Teddy G. Goetz  
 - N. Nair
