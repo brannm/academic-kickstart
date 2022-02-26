@@ -25,6 +25,7 @@ interests:
 - Trans health
 - LGBTQ health
 - Women's health 
+- Neurodiversity
 - Narrative medicine
 - Medical education
 - Physician advocacy
