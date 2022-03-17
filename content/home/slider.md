@@ -17,16 +17,16 @@ height = "500px"
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
-  title = "Risen"
+  title = "" #"Risen".
   content = ""
   align = ""
 
   overlay_color = ""  # An HTML color value.
-  overlay_img = "risen_website.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "website_risen.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.  
 
 [[item]]
-  title = "Unapologetic"
+  title = "" #"Unapologetic".
   content = ""
   align = ""
 
@@ -36,7 +36,7 @@ height = "500px"
   
 
 [[item]]
-  title = "Pluripotent"
+  title = "" #"Pluripotent".
   content = ""
   align = ""
 
@@ -46,7 +46,7 @@ height = "500px"
 
 
 [[item]]
-  title = "Cannot Be Contained"
+  title = "" # "Cannot Be Contained".
   content = ""
   align = ""
 
@@ -56,7 +56,7 @@ height = "500px"
 
 
 [[item]]
-  title = "Photosensitive"
+  title = "" # "Photosensitive".
   content = ""
   align = ""
 
@@ -65,7 +65,7 @@ height = "500px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Irish Proverb"
+  title = "" # "Irish Proverb".
   content = ""
   align = ""
 
@@ -75,7 +75,7 @@ height = "500px"
   
 
 [[item]]
-  title = "Travel Log"
+  title = "" # "Travel Log".
   content = ""
   align = ""
 
@@ -84,7 +84,7 @@ height = "500px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Diffraction"
+  title = "" # "Diffraction".
   content = ""
   align =   ""
 
@@ -93,7 +93,7 @@ height = "500px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Meditation in Motion"
+  title = "" # "Meditation in Motion".
   content = ""
   align = ""
 
@@ -102,7 +102,7 @@ height = "500px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = "Photophobia"
+  title = "" # "Photophobia".
   content = ""
   align = ""
 
