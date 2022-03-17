@@ -51,7 +51,6 @@ subtitle = "Patient Resources"
  css_class = ""
 
 +++
-#Patient Resources.
 
 As a resident physician, I am not able to take on patients independently at this time. For resources on accessing LGBTQIA+-affirming mental health providers in or near Philadelphia, please see below. This list is not an endorsement of any particular provider, and no compensation was offered in exchange for appearing here: 
 
