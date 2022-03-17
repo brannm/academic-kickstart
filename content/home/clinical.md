@@ -57,7 +57,7 @@ subtitle = "Patient Resources"
 As a resident physician, I am not able to take on patients indepedently at this time. For resources on accessing LGBTQIA+-affirming mental health providers in or near Philadelphia, please see below. This list is not an endorsement of any particular provider, and no compensation was offered in exchange for appearing here: 
 
 ##
-1. (List of "self-identified, out therapists", with their specific expertises - compiled and managed by Phoenix Wood, LCSW, SEP)[https://www.restorativeconnection.com/resources.html]: Therapy
+1. (List of "self-identified, out" queer and/or trans therapists, with their specific expertises - compiled and managed by Phoenix Wood, LCSW, SEP)[https://www.restorativeconnection.com/resources.html]: Therapy
 2. (Einstein Pride Program)[https://www.einstein.edu/mental-health]: Psychiatry
 3. (University of Pennsylvania Psychiatry LGBTQ Outpatient Clinic)[https://www.pennmedicine.org/providers/profile/xavier-diao?fadf=pennmedicine]: Psychiatry
 
