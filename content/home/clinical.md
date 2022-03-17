@@ -10,7 +10,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 140  # Order that this section will appear.
 
-title = "Clinical Work"
+title = "Clinical Care"
 subtitle = "Patient Resources"
 
 [design]
@@ -54,7 +54,7 @@ subtitle = "Patient Resources"
 +++
 
 ## Explanation
-As a resident physician, I am not able to take on patients indepedently at this time. For resources on accessing LGBTQIA+-affirming mental health providers in or near Philadelphia, please see below. This list is not an endorsement of any particular provider, and no compensation was offered in exchange for appearing here: 
+As a resident physician, I am not able to take on patients independently at this time. For resources on accessing LGBTQIA+-affirming mental health providers in or near Philadelphia, please see below. This list is not an endorsement of any particular provider, and no compensation was offered in exchange for appearing here: 
 
 ##
 1. (List of "self-identified, out" queer and/or trans therapists, with their specific expertises - compiled and managed by Phoenix Wood, LCSW, SEP)[https://www.restorativeconnection.com/resources.html]: Therapy
