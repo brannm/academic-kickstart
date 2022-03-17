@@ -1,5 +1,5 @@
 ---
-title: “Experiences of LGBTQ Psychiatrists in Residency. [In press]”
+title: "Experiences of LGBTQ Psychiatrists in Residency. [In press]"
 authors:
 - Murad Khan
 - Teddy G Goetz
