@@ -48,10 +48,10 @@
   url = "#slider"
   weight = 80
 
- #[[main]]
- #   name = "Clinical Work"
- #   url = "#clinical"
- #   weight = 90
+ [[main]]
+    name = "Clinical Work"
+    url = "#clinical"
+    weight = 90
 
 #[[main]]
 #  name = "Contact"
@@ -63,4 +63,4 @@
  [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 90 #100
+    weight = 100
