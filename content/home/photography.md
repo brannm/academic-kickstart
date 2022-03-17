@@ -68,10 +68,10 @@ subtitle = "To inquire about hiring for photography services, please [email](ted
     * Columbia University, Department of Narrative Medicine
 
 ## Selected Published Photography:
-1. Cannot Be Contained. Harmony Magazine, University of Arizona Medical School. 2022.  [Accepted]
-2. Pluripotent. Harmony Magazine, University of Arizona Medical School. 2022.  [Accepted]
-3. Unapologetic. Harmony Magazine, University of Arizona Medical School. 2022. [Accepted]
-4. Framed Photographs. In: Trans Bodies, Trans Selves. 2021. [In press]
+1. Framed Photographs. In: Trans Bodies, Trans Selves. 2022. [In press]
+2. [Cannot Be Contained](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022.  [Accepted]
+3. [Pluripotent](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022.  [Accepted]
+4. [Unapologetic](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022. [Accepted]
 5. Risen. Harmony Magazine, University of Arizona Medical School. 2021. 
 6. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. 
 7. [Irish Proverb](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
