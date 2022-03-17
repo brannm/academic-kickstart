@@ -1,5 +1,3 @@
-#for putting information about clinical care
-
 +++
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
@@ -10,6 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 140  # Order that this section will appear.
 
+#for putting information about clinical care. 
 title = "Clinical Care"
 subtitle = "Patient Resources"
 
