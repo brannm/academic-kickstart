@@ -68,7 +68,7 @@ subtitle = "To inquire about hiring for photography services, please [email](ted
     * Columbia University, Department of Narrative Medicine
 
 ## Selected Published Photography:
-1. Framed Photographs. In: Trans Bodies, Trans Selves. 2022. [In press]
+1. [Framed Photographs](http://transbodies.com/second-edition/). In: Trans Bodies, Trans Selves. Oxford University Press. 2022. p. 103.
 2. [Cannot Be Contained](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022.
 3. [Pluripotent](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022.  
 4. [Unapologetic](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022. 
