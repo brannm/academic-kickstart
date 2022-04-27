@@ -1,5 +1,5 @@
 ---
-title: "Evaluating Medical Students’ Views of the Complexity of Sexual Minority Patients and Implications for Care. [accepted]"
+title: "Evaluating Medical Students’ Views of the Complexity of Sexual Minority Patients and Implications for Care."
 authors:
 - Samuel R Bunting
 - Sarah K. Calabrese 
