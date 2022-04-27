@@ -13,7 +13,7 @@ authors:
 
 
 
-date: "2022-02-16"
+date: "2022-04-11"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -44,7 +44,7 @@ featured: false
 links:
 #- name: "Link"
 # url: 
-url_pdf: ""
+url_pdf: "https://www.liebertpub.com/doi/pdf/10.1089/lgbt.2021.0023"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
