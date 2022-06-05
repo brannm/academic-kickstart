@@ -53,8 +53,8 @@ subtitle = ""
 
 ## Selected Poetry:
 
-1. Sticky Fingers. Jewish Queer Magazine. 2022. [Accepted]
-2. T-Section. Beyond Queer Words. July 2022. [Accepted]
+1. [Sticky Fingers](https://issuu.com/jqmagazine/docs/jewish_queer_magazine-final?fr=sZjEzZjQ5NTExNjc). Jewish Queer Magazine. 2022. 
+2. [T-Section](https://www.beyondwordsmag.com/online-store/Beyond-Queer-Words-2022-Third-Edition-Poetry-p470073011). Beyond Queer Words. June 2022.
 3. [Short Call](https://www.theintima.org/short-call-teddy-goetz). The Intima: A Journal of Narrative Medicine. Spring 2021.
 4. [Community](https://www.consilience-journal.com/issue-4-community). Consilience Journal. Issue 4. 2021. 
 5. [Make a Wish](https://sheilanagigblog.com/the-poets-volume-5-3-spring-2021/teddy-g-goetz/). Sheila-Na-Gig Journal. Volume 5.2. 2021.  
