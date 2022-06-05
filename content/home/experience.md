@@ -17,15 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Utility and drawbacks of animal models of gender-affirming hormone therapy"
-  company = "Corin Humphrey Memorial Journal Club (international)"
-  company_url = ""
-  location = ""
-  date_start = "2021-09-15"
-  date_end = "2021-09-15"
-  description = """Presentation to trans health researchers discussing my master's thesis work on murine models of gender-affirming hormone therapy
-"""
+
 
 [[experience]]
   title = "Case Conference: Perinatal Psychosis"
