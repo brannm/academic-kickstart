@@ -1,6 +1,6 @@
 ---
 title: "Trans and ADHD: A Critical Literature Review"
-summary: "systematic review of the peer-reviewed literature published to date on the overlap between attention deficit hyperactivity disorder and transgender, non-binary, and/or gender diverse communities"
+summary: "systematic review of the peer-reviewed literature published to date on the overlap between attention deficit hyperactivity disorder and transgender, non-binary, and/or gender diverse communities [1st author paper submitted]"
 tags:
 - Trans Health
 - Psychiatry
