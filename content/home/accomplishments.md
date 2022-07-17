@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Penn Psychiatry"
+  organization_url = ""
+  title = "Educating Physician Scientists in Psychiatry (EPSP) Pilot Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-07-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Columbia VP&S"
   organization_url = ""
   title = "Dr. William Raynor Watson Memorial Award in Psychiatry"
@@ -77,6 +88,7 @@ date_format = "Jan 2006"
   date_start = "2021-03-01"
   date_end = ""
   description = ""
+
 [[item]]
   organization = "American Medical Student Association and GLMA (National)"
   organization_url = ""
@@ -86,6 +98,17 @@ date_format = "Jan 2006"
   date_start = "2021-03-01"
   date_end = ""
   description = ""
+
+[[item]]
+  organization = "Columbia VP&S"
+  organization_url = ""
+  title = "Friedman Award for Research"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-03-15"
+  date_end = ""
+  description = ""
+
 
 [[item]]
   organization = "American Psychoanalytic Association (National)"
