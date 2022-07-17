@@ -1,6 +1,6 @@
 ---
 title: Gender is Really Strange 
-summary:  A unique exploration in of the intersection of gender identity and sex and their inherent messiness; graphic novel in contract with Jessica Kingsley Publishers, as part of the ...is really strange series
+summary: a graphic novel about the rich complexities of gender—sociocultural to neuroscience—as part of the …is really strange series; in contract with Jessica Kingsley Publishers
 tags:
 - Trans Health
 - Psychiatry
