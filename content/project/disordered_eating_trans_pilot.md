@@ -1,5 +1,5 @@
 ---
-title: “Developing a Disordered Eating Treatment Intervention for Transgender and Gender Diverse Young Adults Using Implementation Science Methods” 
+title: Developing a Disordered Eating Treatment Intervention for Transgender and Gender Diverse Young Adults Using Implementation Science Methods 
 summary: Principal Investigator of $8k Educating Physician Scientists in Psychiatry (EPSP) Pilot Grant from Penn Psychiatry to fund study
 
 
