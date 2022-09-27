@@ -34,9 +34,9 @@ tags:
 featured: false
 
 #links:
-#- name: "Link"
+# name: "Link"
 # url: 
- url_pdf: "https://www.tandfonline.com/doi/abs/10.1080/19359705.2022.2109119"
+url_pdf: "https://www.tandfonline.com/doi/abs/10.1080/19359705.2022.2109119"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
