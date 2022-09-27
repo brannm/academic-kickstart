@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "Journal of Gay and Lesbian Mental Health"
 publication_short: ""
 
-abstract: Introduction: Prior work suggests an increased prevalence of Attention Deficit Hyperactivity Disorder (ADHD) among transgender and/or gender diverse (TGD) individuals. This systematic review summarizes primary literature on TGD/ADHD experience. Methods: Texts from databases, reference lists, and referral were screened per PRISMA guidelines, with author consensus. Results: Since 2014, 17 articles have been published on the TGD/ADHD nexus. Gender-affirming care specialists authored 65%. 71% reported prevalence, per medical records. Only case reports discussed implications. None avoided deficit-framing, nor included explicit TGD/ADHD authorship. Conclusions: The paucity of literature and lack of explicit TGD/ADHD community involvement are striking; each warrants increased attention.
+abstract: "Introduction: Prior work suggests an increased prevalence of Attention Deficit Hyperactivity Disorder (ADHD) among transgender and/or gender diverse (TGD) individuals. This systematic review summarizes primary literature on TGD/ADHD experience. Methods: Texts from databases, reference lists, and referral were screened per PRISMA guidelines, with author consensus. Results: Since 2014, 17 articles have been published on the TGD/ADHD nexus. Gender-affirming care specialists authored 65%. 71% reported prevalence, per medical records. Only case reports discussed implications. None avoided deficit-framing, nor included explicit TGD/ADHD authorship. Conclusions: The paucity of literature and lack of explicit TGD/ADHD community involvement are striking; each warrants increased attention."
 
 # Summary. An optional shortened abstract.
 summary:
