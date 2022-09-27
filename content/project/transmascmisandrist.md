@@ -1,5 +1,5 @@
 ---
-title: "A Good Man: Confessions of a Transmasc Misandrist"
+title: "(Not) A Good Man"
 summary: Autotheory amalgam of memoir, poetry, and journal excerpts exploring the binds of gender and transness, and probing the bounds of non-toxic masculinity [book manuscript submitted]
 tags:
 - Trans Health

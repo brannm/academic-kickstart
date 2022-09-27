@@ -1,10 +1,10 @@
 ---
-title: "The Transgender and Gender Diverse and Attention Deficit Hyperactivity Disorder Nexus: A Systematic Review. [accepted]"
+title: "The Transgender and Gender Diverse and Attention Deficit Hyperactivity Disorder Nexus: A Systematic Review."
 authors:
 - Teddy G Goetz
 - Noah Adams
 
-date: "2022-07-31"
+date: "2022-08-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "Journal of Gay and Lesbian Mental Health"
 publication_short: ""
 
-abstract:
+abstract: Introduction: Prior work suggests an increased prevalence of Attention Deficit Hyperactivity Disorder (ADHD) among transgender and/or gender diverse (TGD) individuals. This systematic review summarizes primary literature on TGD/ADHD experience. Methods: Texts from databases, reference lists, and referral were screened per PRISMA guidelines, with author consensus. Results: Since 2014, 17 articles have been published on the TGD/ADHD nexus. Gender-affirming care specialists authored 65%. 71% reported prevalence, per medical records. Only case reports discussed implications. None avoided deficit-framing, nor included explicit TGD/ADHD authorship. Conclusions: The paucity of literature and lack of explicit TGD/ADHD community involvement are striking; each warrants increased attention.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -36,7 +36,7 @@ featured: false
 #links:
 #- name: "Link"
 # url: 
-# url_pdf: "XXXXXXXXXXXXXXX"
+ url_pdf: "https://www.tandfonline.com/doi/abs/10.1080/19359705.2022.2109119"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
