@@ -1,6 +1,6 @@
 ---
-title: Gender-Affirming Psychiatric Care for Transgender and Gender Diverse People
-summary:  Textbook co-edited with Alex S. Keuroghlian MD, MPH; in contract with APA Publishing
+title: Gender-Affirming Psychiatric Care
+summary:  Textbook co-edited with Alex S. Keuroghlian MD, MPH; in contract with APA Publishing for publication 2023
 tags:
 - Trans Health
 - Psychiatry
