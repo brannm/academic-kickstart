@@ -28,16 +28,76 @@ date_format = "Jan 2006"
 ##  description = """Speaker on virtual CE session, presenting clinical considerations for gender-affirming care
 ##"""
 
+[[experience]]
+  title = "Brain Forum: Moving Toward Targeted Eating Disorder Care for Transgender, Non-binary, and Gender Expansive Patients"
+  company = "University of Pennsylvania, Department of Psychiatry"
+  company_url = ""
+  location = ""
+  date_start = "2023-02-16"
+  date_end = "2023-02-16"
+  description = """Pan-residency research presentation about implementation science research project eliciting stakeholder needs and preferences from targeted eating disorder interventions for transgender, non-binary, and/or gender expansive individuals 
+"""
 
 [[experience]]
-  title = “A Pocket Guide to LGBTQ Psychiatry"
+  title = "Case Conference: Benzodiazepine Withdrawal"
+  company = "University of Pennsylvania, Department of Psychiatry"
+  company_url = ""
+  location = ""
+  date_start = "2023-02-02"
+  date_end = "2023-02-02"
+  description = """Pan-residency case conference describing the facets of identifying and treating benzodiazepine withdrawl; Faculty discussant Dr. Daniel Moadel (Penn)
+"""
+
+[[experience]]
+  title = "Hospital-Based Psychiatry"
+  company = "University of Vietnam Medical School (Penn Partnership)"
+  company_url = ""
+  location = ""
+  date_start = "2022-11-01"
+  date_end = "2023-02-14"
+  description = """Developed pre-clinical curriculum for medical students on hospital-based/consult-liaison psychiatry
+"""
+
+[[experience]]
+  title = "Name Change in Scientific Publishing Workshop"
+  company = "Yale University"
+  company_url = ""
+  location = ""
+  date_start = "2022-04-12"
+  date_end = "2022-04-12"
+  description = """Invited speaker discussing advocacy work for gender-affirming name-changes in publishing
+"""
+
+[[experience]]
+  title = "Mentorship Across the Spectrum: Professional Development for the LGBTQ+ Psychiatrist"
   company = "AGLP Virtual Sessions"
   company_url = ""
   location = ""
-  date_start = "2021-09-19"
-  date_end = "2021-09-19"
-  description = """Moderator of virtual CE session on bisexual and transgender health topics in psychiatry
+  date_start = "2022-04-10"
+  date_end = "2022-04-10"
+  description = """Speaker on virtual CE session on supporting LGBTQ+ psychiatry trainees
 """
+
+[[experience]]
+  title = "Brain Forum: Terminal Transition"
+  company = "University of Pennsylvania, Department of Psychiatry"
+  company_url = ""
+  location = ""
+  date_start = "2022-01-20"
+  date_end = "2022-01-20"
+  description = """Pan-residency research presentation about qualitative interviews about how transition narratives impact transgender, non-binary, and/or gender expansive mental health
+"""
+
+
+#[[experience]]
+#  title = “A Pocket Guide to LGBTQ Psychiatry"
+#  company = "AGLP Virtual Sessions"
+#  company_url = ""
+#  location = ""
+#  date_start = "2021-09-19"
+#  date_end = "2021-09-19"
+#  description = """Moderator of virtual CE session on bisexual and transgender health topics in psychiatry
+#"""
 
 [[experience]]
   title = "Case Conference: Perinatal Psychosis"
