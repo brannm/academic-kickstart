@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   company = "University of Pennsylvania, Department of Psychiatry"
   company_url = ""
   location = ""
-  date_start = "2022-01-20"
-  date_end = "2022-01-20"
+  date_start = "2023-02-16"
+  date_end = "2023-02-16"
   description = """Pan-residency research presentation about implementation science research project eliciting stakeholder needs and preferences from targeted eating disorder interventions for transgender, non-binary, and/or gender expansive individuals 
 """
 
