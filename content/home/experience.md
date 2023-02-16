@@ -18,7 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+##[[experience]]
+##  title = "LGBTQ+ Mental Health: Challenges, Advocacy, and Clinical Considerations for Transgender and Gender Non-Conforming Persons"
+##  company = "American Psychiatric Association Virtual Sessions"
+##  company_url = ""
+##  location = ""
+##  date_start = "2023-03-01"
+##  date_end = "2023-03-01"
+##  description = """Speaker on virtual CE session, presenting clinical considerations for gender-affirming care
+##"""
 
+
+[[experience]]
+  title = “A Pocket Guide to LGBTQ Psychiatry"
+  company = "AGLP Virtual Sessions"
+  company_url = ""
+  location = ""
+  date_start = "2021-09-19"
+  date_end = "2021-09-19"
+  description = """Moderator of virtual CE session on bisexual and transgender health topics in psychiatry
+"""
 
 [[experience]]
   title = "Case Conference: Perinatal Psychosis"
