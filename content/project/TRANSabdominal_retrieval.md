@@ -1,12 +1,12 @@
 ---
-# title: "TRANS-abdominal Retrieval: a (gender)queer Jewish quest to make an embryo"
-# summary: Narrative medicine poetry project 
-# tags:
-# - Trans Health
-# - Psychiatry
-# - LGBTQ
-# - Narrative Medicine
-# - Neurodiversity
+title: "TRANS-abdominal Retrieval: a (gender)queer Jewish quest to make an embryo"
+summary: Narrative medicine poetry project
+tags:
+- Trans Health
+- Psychiatry
+- LGBTQ
+- Narrative Medicine
+- Neurodiversity
 
 
 

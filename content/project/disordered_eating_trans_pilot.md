@@ -9,6 +9,7 @@ tags:
 - Narrative Medicine
 - LGBTQ
 - Neurodiversity
+- Consult-Liaison Psychiatry
 
 
 

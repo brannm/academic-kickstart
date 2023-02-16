@@ -7,6 +7,7 @@ tags:
 - LGBTQ
 - Medical Education
 - Neurodiversity
+- Consult-Liaison Psychiatry
 
 
 
