@@ -89,13 +89,13 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = “A Pocket Guide to LGBTQ Psychiatry"
+  title = "A Pocket Guide to LGBTQ Psychiatry"
   company = "AGLP Virtual Sessions"
   company_url = ""
   location = ""
   date_start = "2021-09-19"
   date_end = "2021-09-19"
-  description = """Moderator of virtual CE session on bisexual and transgender health topics in psychiatry
+  description = """Moderated virtual CE session on bisexual and transgender health topics in psychiatry
 """
 
 
