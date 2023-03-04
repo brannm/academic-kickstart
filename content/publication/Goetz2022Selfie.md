@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "Studies in Gender and Sexuality"
 publication_short: ""
 
-abstract:
+abstract: "Coming out as trans involves the melancholic, ambivalent loss of intentionally forsaken objects and illusions. Creating replacement fantasies for one’s gender expression requires navigating tensions between trying to visualize one’s authentic internal truth in the mirror (self-recognition) and seeking the affirmation and safety associated with external recognition, often referred to as passing. Ascribing to hegemonic binary gender norms can increase one’s legibility, but may impair self-recognition and one’s ability to form intimate connections with others, due to erasure of the authentic self. This can be particularly salient for nonbinary individuals, for whom passing necessitates choosing a least harmful form of misrecognition. I explored these themes in ethnographic interviews with 28 transgender, nonbinary, and/or gender-expansive individuals about their faces. Participants (binary and nonbinary) overwhelmingly fantasized about having facial features more stereotypically incongruent with their assigned-gender-at-birth (e.g., assigned-female-at-birth seeking angular jaw and cheekbones). They found the presence of such elements in their faces affirming or imagined a lack thereof to promote misrecognition. Paradoxically, these same persons were dissatisfied when such hypermasculinity or hyperfemininity was projected onto their faces by digital filters, due to loss of self-recognition."
 
 # Summary. An optional shortened abstract.
 summary:
