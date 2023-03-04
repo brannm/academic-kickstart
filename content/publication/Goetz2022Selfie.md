@@ -1,10 +1,10 @@
 ---
-title: "Self(ie)-Recognition: Authenticity, Passing, and Trans Embodied Imaginaries. [accepted]"
+title: "Self(ie)-Recognition: Authenticity, Passing, and Trans Embodied Imaginaries."
 authors:
 - Teddy G Goetz
 
-date: "2021-08-21"
-doi: ""
+date: "2023-02-21"
+doi: "https://doi.org/10.1080/15240657.2022.2133525"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -35,7 +35,7 @@ featured: false
 #links:
 #- name: "Link"
 # url: 
-# url_pdf: "XXXXXXXXXXXXXXX"
+url_pdf: "https://www.tandfonline.com/eprint/XV6SPMBEA7ERA7MYSYC3/full?target=10.1080/15240657.2022.2133525"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
