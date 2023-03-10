@@ -1,6 +1,7 @@
 ---
 title: "TRANS-abdominal Retrieval: a (gender)queer Jewish quest to make an embryo"
-summary: Narrative medicine poetry project
+summary: "Chapbook of narrative medicine poetry project about IVF egg retrieval process; Beyond the Veil Press [in press]"
+
 tags:
 - Trans Health
 - Psychiatry
