@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Journal of Gay & Lesbian Mental Health"
+  organization_url = ""
+  title = "Outstanding Resident Paper Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-03-28"
+  date_end = ""
+  description = "For paper: 'Coming Home to My Body': A Qualitative Exploration of Gender-Affirming Care-Seeking and Mental Health"
+
+[[item]]
   organization = "Penn Psychiatry"
   organization_url = ""
   title = "Educating Physician Scientists in Psychiatry (EPSP) Pilot Grant"
