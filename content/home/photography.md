@@ -68,15 +68,16 @@ subtitle = "To inquire about hiring for photography services, please [email](ted
     * Columbia University, Department of Narrative Medicine
 
 ## Selected Published Photography:
-1. [Framed Photographs](http://transbodies.com/second-edition/). In: Trans Bodies, Trans Selves. Oxford University Press. 2022. p. 103.
-2. [Cannot Be Contained](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022.
-3. [Pluripotent](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022.  
-4. [Unapologetic](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022. 
-5. [Risen](https://medicine.arizona.edu/sites/default/files/harmony_corrected.pdf). Harmony Magazine, University of Arizona Medical School. 2021. 
-6. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. 
-7. [Irish Proverb](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
-8. [Meditation in Motion](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
-9. [Photophobia](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
-10. [Travel Log](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
-11. Diffraction. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018. 
+1. [With Flare](https://medicine.arizona.edu/sites/default/files/2023_harmony_magazine.pdf). Harmony Magazine, University of Arizona Medical School. 2023.
+2. [Framed Photographs](http://transbodies.com/second-edition/). In: Trans Bodies, Trans Selves. Oxford University Press. 2022. p. 103.
+3. [Cannot Be Contained](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022.
+4. [Pluripotent](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022.  
+5. [Unapologetic](https://medicine.arizona.edu/sites/default/files/harmony_2022_online_version.pdf). Harmony Magazine, University of Arizona Medical School. 2022. 
+6. [Risen](https://medicine.arizona.edu/sites/default/files/harmony_corrected.pdf). Harmony Magazine, University of Arizona Medical School. 2021. 
+7. [Photosensitive](https://ailmentcoin.org/issues). Ailment: Chronicles of Illness Narratives. Vol. 1. 2020. 
+8. [Irish Proverb](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+9. [Meditation in Motion](http://cantodellasirena.com/mind-the-gap.html). SIREN Magazine. Canto IV, 2019. 
+10. [Photophobia](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
+11. [Travel Log](http://cantodellasirena.com/photophobia.html). SIREN Magazine. Canto III, 2019. 
+12. Diffraction. Reflexions Literary Magazine, Columbia University College of Physicians and Surgeons. 2018. 
 

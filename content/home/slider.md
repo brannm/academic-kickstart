@@ -16,6 +16,7 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 
+
 [[item]]
   title = "" #"Risen".
   content = ""
@@ -42,6 +43,15 @@ height = "500px"
   overlay_color = ""  # An HTML color value.
   overlay_img = "website_framed_photographs.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.    
+
+[[item]]
+  title = "" #"With Flare".
+  content = ""
+  align = ""
+
+  overlay_color = ""  # An HTML color value.
+  overlay_img = "website_with_flare.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.  
 
 [[item]]
   title = "" #"Pluripotent".
