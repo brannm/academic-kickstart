@@ -8,15 +8,16 @@
   url = "#about"
   weight = 10
 
+#[[main]]
+#  name = "Books"
+#  url = "#books"
+#  weight = 20
+#when time to put the book links live, cut the teaching tab and adjust the ones before that to be later (consider calling "publications" "papers" and shortening names of other things)
+
 [[main]]
   name = "Projects"
   url = "#projects"
   weight = 20
-
-#[[main]]
-#  name = "Books"
-#  url = "#books"
-#  weight = 30
 
 [[main]]
   name = "Publications"
