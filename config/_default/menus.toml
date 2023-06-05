@@ -12,7 +12,7 @@
 #  name = "Books"
 #  url = "#books"
 #  weight = 20
-#when time to put the book links live, cut the teaching tab and adjust the ones before that to be later (consider calling "publications" "papers" and shortening names of other things)
+#when time to put the book links live, cut the teaching tab and adjust the ones before that to be later (consider calling "publications" "papers" and shortening names of other things; also set up a link to invite to come talk/consulting fees etc.)
 
 [[main]]
   name = "Projects"
