@@ -1,6 +1,6 @@
 ---
 title: Gender is Really Strange 
-summary: "a graphic novel about the rich complexities of gender—sociocultural to neuroscience—as part of the …is really strange series; Jessica Kingsley Publishing [in press]"
+summary: "a graphic novel about the rich complexities of gender—sociocultural to neuroscience—as part of the …is really strange series; Jessica Kingsley Publishing [in press; October 2023]"
 tags:
 - Trans Health
 - Psychiatry
