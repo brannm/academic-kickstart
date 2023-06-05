@@ -22,12 +22,14 @@ bio:
 
 interests:
 - Psychiatry
+- Child and Adolescent Psychiatry
 - Consult-Liaison Psychiatry
 - Trans health
 - LGBTQ health
 - Women's health 
 - Neurodiversity
 - Narrative medicine
+- Implementation Science
 - Medical education
 - Physician advocacy
 - Science, Technology, and Society Studies

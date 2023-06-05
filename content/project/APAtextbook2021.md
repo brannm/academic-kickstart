@@ -8,6 +8,8 @@ tags:
 - Medical Education
 - Neurodiversity
 - Consult-Liaison Psychiatry
+- Child and Adolescent Psychiatry
+- Physician advocacy
 
 
 

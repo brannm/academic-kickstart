@@ -30,6 +30,7 @@ tags:
 - Psychiatry
 - LGBTQ
 - Neurodiversity
+- Child and Adolescent Psychiatry
 
 featured: false
 

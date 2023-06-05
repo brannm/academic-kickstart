@@ -10,7 +10,8 @@ tags:
 - LGBTQ
 - Neurodiversity
 - Consult-Liaison Psychiatry
-
+- Implementation Science
+- Child and Adolescent Psychiatry
 
 
 # Optional external URL for project (replaces project detail page).

@@ -8,6 +8,8 @@ tags:
 - Medical Education
 - Science, Technology, and Society Studies
 - Neurodiversity
+- Child and Adolescent Psychiatry
+- Physician advocacy
 
 
 

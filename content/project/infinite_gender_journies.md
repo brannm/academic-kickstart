@@ -7,6 +7,8 @@ tags:
 - LGBTQ
 - Narrative Medicine
 - Neurodiversity
+- Science, Technology, and Society Studies
+- Physician advocacy
 
 
 

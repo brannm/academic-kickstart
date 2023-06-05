@@ -5,6 +5,7 @@ summary: A survey-based exploration of medical student professional identity for
 tags:
 - Psychiatry
 - Medical Education
+- Physician advocacy
 
 
 
