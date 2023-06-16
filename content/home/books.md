@@ -51,9 +51,6 @@ subtitle = ""
  css_class = ""
 
 +++
-# Gender is really strange
-# book cover
-![Gender is Really Strange cover](GiRS_cover.jpg "Gender is Really Strange")
+Gender is Really Strange ~ [Preorder](https://us.jkp.com/products/gender-is-really-strange?_pos=1&_psq=gender+is+really+str&_ss=e&_v=1.0)
 
-[Preorder](https://us.jkp.com/products/gender-is-really-strange?_pos=1&_psq=gender+is+really+str&_ss=e&_v=1.0)
 What does it mean to be trans? Non-Binary? Gender Expansive? What parts of gender come from society? What parts come from within? How much is biology, and how much is socialization? Part of the Really Strange series, this science-based graphic medicine comic addresses these questions and more, revealing the inherent messiness of gender identity and sex. A mysterious amalgam of biology and society, inherently sensed, yet societally-defined, the complexity of gender is revealed through examining neuroscience, biology, hormones, mental health, behaviour and how much of gender comes from society. Exploring theories, thinkers, terminology, history and gender cultures around the world and across different religions, this easy-to-understand and engaging book will help you to question perceived norms and engage critically with your own gender identity. Get ready to break down the binary B.S. and celebrate gender in all its messy glory!
