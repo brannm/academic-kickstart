@@ -8,60 +8,56 @@
   url = "#about"
   weight = 10
 
-#[[main]]
-#  name = "Books"
-#  url = "#books"
-#  weight = 20
+[[main]]
+  name = "Books"
+  url = "#books"
+  weight = 20
 #when time to put the book links live, cut the teaching tab and adjust the ones before that to be later (consider calling "publications" "papers" and shortening names of other things; also set up a link to invite to come talk/consulting fees etc.)
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 20
+  weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Papers"
   url = "#publications"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Talks"
   url = "#conference"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Teaching"
   url = "#experience"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Awards"
   url = "#accomplishments"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Poetry"
   url = "#poet"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Photography"
   url = "#slider"
-  weight = 80
+  weight = 90
 
  [[main]]
-    name = "Clinical Care"
+    name = "Resources"
     url = "#clinical"
-    weight = 90
+    weight = 100
 
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 100
+    weight = 110
