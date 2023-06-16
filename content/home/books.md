@@ -51,8 +51,8 @@ subtitle = ""
  css_class = ""
 
 +++
-#Gender is really strange
-#book cover
+# Gender is really strange
+# book cover
 ![Gender is Really Strange cover](GiRS_cover.jpg "Gender is Really Strange")
 
 [Preorder](https://us.jkp.com/products/gender-is-really-strange?_pos=1&_psq=gender+is+really+str&_ss=e&_v=1.0)
