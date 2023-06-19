@@ -62,3 +62,9 @@ What does it mean to be trans? Non-Binary? Gender Expansive? What parts of gende
 ## Gender-Affirming Psychiatric Care
 [Preorder now!](https://www.barnesandnoble.com/w/gender-affirming-psychiatric-care-teddy-g-goetz-md-ms/1143188824)
 First textbook dedicated to psychiatric care for transgender, non-binary, and/or gender expansive (TNG) individuals; co-edited with Alex S. Keuroghlian MD, MPH; American Psychiatric Association Publishers
+
+##
+
+## TRANS-abdominal Retrieval: a (gender)queer Jewish quest to make an embryo
+[Coming soon!](https://beyondtheveilpress.com/) 
+Chapbook of narrative medicine poetry project about IVF egg retrieval process
