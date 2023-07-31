@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Penn Psychiatry"
+  organization_url = ""
+  title = "Educating Physician Scientists in Psychiatry (EPSP) Pilot Grant"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-07-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "University of Pennsylvania, Leonard Davis Institute"
+  organization_url = ""
+  title = "Implementation Science Institute Tuition Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-06-01"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Journal of Gay & Lesbian Mental Health"
   organization_url = ""
   title = "Outstanding Resident Paper Award"

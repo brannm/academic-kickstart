@@ -66,5 +66,5 @@ First textbook dedicated to psychiatric care for transgender, non-binary, and/or
 ##
 
 ## TRANS-abdominal Retrieval: a (gender)queer Jewish quest to make an embryo
-[Coming soon!](https://beyondtheveilpress.com/) 
+[Order now!](https://beyondtheveilpress.com/) 
 Chapbook of narrative medicine poetry project about IVF egg retrieval process
