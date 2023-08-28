@@ -1,5 +1,5 @@
 ---
-title: "Moving Toward Targeted Eating Disorder Care for Transgender, Non-binary, and Gender Expansive Patients in the United States. [accepted]"
+title: "Moving Toward Targeted Eating Disorder Care for Transgender, Non-binary, and Gender Expansive Patients in the United States."
 authors:
 - Teddy G Goetz
 - Courtney Benjamin Wolk
