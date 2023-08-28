@@ -4,7 +4,7 @@ authors:
 - Teddy G Goetz
 - Courtney Benjamin Wolk
 
-date: "2023-08-17"
+date: "2023-08-28"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ featured: false
 
 #links:
 #- name: "Link"
-# url: 
+ url: http://doi.org/10.1002/eat.24055
 #url_pdf: ""
 # url_code: ''
 # url_dataset: ''
