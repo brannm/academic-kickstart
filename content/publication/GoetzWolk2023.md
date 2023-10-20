@@ -37,8 +37,8 @@ featured: false
 
 #links:
 #- name: "Link"
- url: http://doi.org/10.1002/eat.24055
-#url_pdf: ""
+#url: 
+url_pdf: "http://doi.org/10.1002/eat.24055"
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
