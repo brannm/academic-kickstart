@@ -60,7 +60,7 @@ What does it mean to be trans? Non-Binary? Gender Expansive? What parts of gende
 ##
 
 ## Gender-Affirming Psychiatric Care
-[Preorder now!](https://www.appi.org/Products/Gender-Related-Issues/Gender-Affirming-Psychiatric-Care?sku=37472)
+[Order now!](https://www.appi.org/Products/Gender-Related-Issues/Gender-Affirming-Psychiatric-Care?sku=37472)
 First textbook dedicated to psychiatric care for transgender, non-binary, and/or gender expansive (TNG) individuals; co-edited with Alex S. Keuroghlian MD, MPH; American Psychiatric Association Publishers
 
 ##
