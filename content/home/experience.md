@@ -19,6 +19,86 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Narrative Medicine in LGBTQIA+ Mental Health"
+  company = "University of Pennsylvania, Perelman School of Medicine"
+  company_url = ""
+  location = ""
+  date_start = "2024-04-02"
+  date_end = "2024-04-02"
+  description = """Invited speaker for medical school LGBTQ+ Mental Health unit 
+"""
+
+[[experience]]
+  title = "Case Conference: Weight-Inclusivity in Gender-Affirming Care"
+  company = "University of Pennsylvania, Gender-Affirming Providers Group"
+  company_url = ""
+  location = ""
+  date_start = "2024-02-05"
+  date_end = "2024-02-05"
+  description = """Case conference presentation to interdisciplinary meeting of gender-affirming providers at Penn Medicine describing the impacts of gender-affirming surgery access on patient mental health and reviewing literature regarding body mass index and gender-affirming surgery outcomes
+"""
+
+[[experience]]
+  title = "Case Conference: Weight-Inclusivity in Gender-Affirming Care"
+  company = "University of Pennsylvania, Department of Psychiatry"
+  company_url = ""
+  location = ""
+  date_start = "2024-02-01"
+  date_end = "2024-02-01"
+  description = """Pan-residency case conference describing the impacts of gender-affirming surgery access on patient mental health and reviewing literature regarding body mass index and gender-affirming surgery outcomes
+"""
+
+[[experience]]
+  title = "'Trans Health Guide' Module Creator"
+  company = "Boston Children’s Hospital and the National Institutes of Health"
+  company_url = ""
+  location = ""
+  date_start = "2024-01-01"
+  date_end = ""
+  description = """
+"""
+
+[[experience]]
+  title = "Eidos Chat: Gender is Really Strange"
+  company = "University of Pennsylvania, Eidos LGBTQ+ Health Initiative"
+  company_url = ""
+  location = ""
+  date_start = "2023-10-31"
+  date_end = "2023-10-31"
+  description = """Part of a speaker series on LGBTQIA+ health projects at Penn Medicine
+"""
+
+[[experience]]
+  title = "Gender Is Really Strange: Reflections on Professional identity and Evidence-Based Advocacy"
+  company = "Columbia University, Vagelos College of Physicians and Surgeons"
+  company_url = ""
+  location = ""
+  date_start = "2023-10-30"
+  date_end = "2023-10-30"
+  description = """Guest speaker as part of Queer Health Week
+"""
+
+[[experience]]
+  title = "Brain Forum: A Formative Evaluation to Inform Integration of Psychiatric Care with Other Gender-Affirming Care"
+  company = "University of Pennsylvania, Department of Psychiatry"
+  company_url = ""
+  location = ""
+  date_start = "2023-10-12"
+  date_end = "2023-10-12"
+  description = """Pan-residency research presentation about implementation science research project eliciting stakeholder needs and preferences from integrated care interventions for transgender, non-binary, and/or gender expansive individuals 
+"""
+
+[[experience]]
+  title = "Psychiatry Medical Student Small Group Preceptor"
+  company = "University of Pennsylvania, Perelman School of Medicine"
+  company_url = ""
+  location = ""
+  date_start = "2023-03-01"
+  date_end = ""
+  description = """
+"""
+
+[[experience]]
   title = "LGBTQ+ Mental Health: Challenges, Advocacy, and Clinical Considerations for Transgender and Gender Non-Conforming Persons"
   company = "American Psychiatric Association Virtual Sessions"
   company_url = ""

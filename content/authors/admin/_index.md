@@ -22,8 +22,6 @@ bio:
 
 interests:
 - Psychiatry
-- Child and Adolescent Psychiatry
-- Consult-Liaison Psychiatry
 - Trans health
 - LGBTQ health
 - Women's health 
