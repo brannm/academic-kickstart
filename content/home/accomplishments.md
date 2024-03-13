@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = "Honors and Awards"
 subtitle = ""
@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Philadelphia Psychiatric Society"
+  organization_url = ""
+  title = "Psychodynamic Psychotherapy Resident Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2024-03-01"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Penn Psychiatry"

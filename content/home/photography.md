@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 145  # Order that this section will appear.
+weight = 120  # Order that this section will appear.
 
 title = "Photography"
 subtitle = "To inquire about hiring for photography services, please [email](teddy.goetz@pennmedicine.upenn.edu)"

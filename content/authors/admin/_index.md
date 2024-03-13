@@ -22,6 +22,7 @@ bio:
 
 interests:
 - Psychiatry
+- Psychotherapy
 - Trans health
 - LGBTQ health
 - Women's health 

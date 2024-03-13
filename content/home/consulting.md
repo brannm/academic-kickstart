@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 #for putting information about clinical care. 
-title = "Clinical Care"
+title = "Consulting Services"
 subtitle = ""
 
 [design]
@@ -53,12 +53,19 @@ subtitle = ""
 +++
 
 
-## Patient Resources
+## Peer Clinical Consultation
+I provide 1:1 peer consultation for physicians, therapists, dietitians, and other clinicians on my topics of expertise, including the following:
+- How to write a letter of support for gender-affirming surgery
+- Mental health considerations in gender-affirming care
+- Psychopharmacological considerations in gender-affirming care
+- Eating disorder care for LGBTQIA+ individuals
+- Neurodiversity-affirming care (ADHD, autism)
+- Disability justice in clinical practice
+- Reproductive psychiatry
+- Supporting LGBTQIA+ individuals through fertility treatments and family planning
+ 
+To explore a possible fit, discuss rates, and schedule a meeting, please email teddy.goetz@pennmedicine.upenn.edu. 
 
-As a resident physician, I only see patients through the University of Pennsylvania Health System at this time. For resources on accessing LGBTQIA+-affirming mental health providers in or near Philadelphia, please see below. This list is not an endorsement of any particular provider, and no compensation was offered in exchange for appearing here: 
-
-##
-1. [University of Pennsylvania Psychiatry LGBTQ Outpatient Clinic](https://www.pennmedicine.org/providers/profile/xavier-diao?fadf=pennmedicine): Psychiatry
-2. [List of "self-identified, out" queer and/or trans therapists, with their specific expertises - compiled and managed by Phoenix Wood, LCSW, SEP](https://www.restorativeconnection.com/resources.html): Therapy
-3. [Einstein Pride Program](https://www.einstein.edu/mental-health): Psychiatry
+## Teaching
+I provide guest lectures on my topics of expertise. To explore a possible fit, discuss rates, and schedule a meeting, please email teddy.goetz@pennmedicine.upenn.edu. 
 
